@@ -208,18 +208,20 @@ function renderSkaterStats(p) {
     ['Career (regular season)', career],
     ...(playoffs && playoffs.gamesPlayed ? [['Career (playoffs)', playoffs]] : []),
   ];
-  const cols = ['gamesPlayed','goals','assists','points','plusMinus','pim','shots','shootingPctg','powerPlayGoals','gameWinningGoals'];
-  const headers = ['', 'GP','G','A','P','+/-','PIM','SOG','S%','PPG','GWG'];
+  const cols = ['gamesPlayed','goals','assists','points','plusMinus','pim','shots','shootingPctg','powerPlayGoals','powerPlayPoints','gameWinningGoals','faceoffWinningPctg'];
+  const headers = ['', 'GP','G','A','P','+/-','PIM','SOG','S%','PPG','PPP','GWG','FO%'];
   const body = rows.map(([label, s]) => {
-    const cells = cols.map(c => c === 'shootingPctg' ? pct(s[c]) : num(s[c]));
+    const cells = cols.map(c => (c === 'shootingPctg' || c === 'faceoffWinningPctg') ? pct(s[c]) : num(s[c]));
     return `<tr><td>${label}</td>${cells.map(v => `<td>${v}</td>`).join('')}</tr>`;
   }).join('');
   return `
     <h3 class="section-title">Stats</h3>
+    <div class="table-wrap">
     <table class="stats-table">
       <thead><tr>${headers.map(h => `<th>${h}</th>`).join('')}</tr></thead>
       <tbody>${body}</tbody>
-    </table>`;
+    </table>
+    </div>`;
 }
 
 function renderGoalieStats(p) {
@@ -231,8 +233,8 @@ function renderGoalieStats(p) {
     ['Career (regular season)', career],
     ...(playoffs && playoffs.gamesPlayed ? [['Career (playoffs)', playoffs]] : []),
   ];
-  const cols = ['gamesPlayed','wins','losses','otLosses','shutouts','goalsAgainstAvg','savePctg'];
-  const headers = ['', 'GP','W','L','OTL','SO','GAA','SV%'];
+  const cols = ['gamesPlayed','gamesStarted','wins','losses','otLosses','shutouts','goalsAgainst','shotsAgainst','goalsAgainstAvg','savePctg'];
+  const headers = ['', 'GP','GS','W','L','OTL','SO','GA','SA','GAA','SV%'];
   const body = rows.map(([label, s]) => {
     const cells = cols.map(c => {
       if (c === 'savePctg') return pct(s[c]);
@@ -243,10 +245,116 @@ function renderGoalieStats(p) {
   }).join('');
   return `
     <h3 class="section-title">Stats</h3>
+    <div class="table-wrap">
     <table class="stats-table">
       <thead><tr>${headers.map(h => `<th>${h}</th>`).join('')}</tr></thead>
       <tbody>${body}</tbody>
-    </table>`;
+    </table>
+    </div>`;
+}
+
+function renderHonors(p) {
+  const badges = [];
+  if (p.isActive === true) badges.push('<span class="badge badge-active">Active</span>');
+  if (p.isActive === false) badges.push('<span class="badge badge-inactive">Inactive</span>');
+  if (p.inHHOF) badges.push('<span class="badge badge-hhof">Hockey Hall of Fame</span>');
+  if (p.inTop100AllTime) badges.push('<span class="badge badge-top100">Top 100 All-Time</span>');
+  for (const b of (p.badges || [])) {
+    const label = typeof b === 'string' ? b : (b?.name?.default || b?.name || b?.title || '');
+    if (label) badges.push(`<span class="badge">${label}</span>`);
+  }
+  const slug = p.playerSlug ? `<span class="slug">${p.playerSlug}</span>` : '';
+  if (!badges.length && !slug) return '';
+  return `
+    <h3 class="section-title">Status & Honors</h3>
+    <div class="honors">${badges.join('')}${slug}</div>`;
+}
+
+function renderSeasonTotals(p) {
+  const all = p.seasonTotals || [];
+  if (!all.length) return '';
+  const isGoalie = p.position === 'G';
+
+  // Show NHL regular-season rows, newest first. Fall back to all leagues if
+  // the player has never played an NHL game (prospects, AHL callups, etc).
+  let rows = all.filter(s => s.leagueAbbrev === 'NHL' && s.gameTypeId === 2);
+  let scope = 'NHL regular season';
+  if (!rows.length) {
+    rows = all.filter(s => s.gameTypeId === 2);
+    scope = 'All leagues (regular season)';
+  }
+  if (!rows.length) return '';
+  rows.sort((a, b) => b.season - a.season);
+
+  const fmtSeason = (s) => {
+    const str = String(s);
+    return str.length === 8 ? `${str.slice(0, 4)}–${str.slice(6)}` : str;
+  };
+  const teamName = (r) => r.teamName?.default || r.teamCommonName?.default || '—';
+
+  const headers = isGoalie
+    ? ['Season','Team','GP','GS','W','L','OTL','SO','GA','SA','GAA','SV%']
+    : ['Season','Team','GP','G','A','P','+/-','PIM','SOG','S%','PPG','PPP'];
+
+  const body = rows.map(r => {
+    const cells = isGoalie ? [
+      num(r.gamesPlayed), num(r.gamesStarted), num(r.wins), num(r.losses),
+      num(r.otLosses), num(r.shutouts), num(r.goalsAgainst), num(r.shotsAgainst),
+      r.goalsAgainstAvg == null ? '—' : Number(r.goalsAgainstAvg).toFixed(2),
+      pct(r.savePctg),
+    ] : [
+      num(r.gamesPlayed), num(r.goals), num(r.assists), num(r.points),
+      num(r.plusMinus), num(r.pim), num(r.shots), pct(r.shootingPctg),
+      num(r.powerPlayGoals), num(r.powerPlayPoints),
+    ];
+    return `<tr><td>${fmtSeason(r.season)}</td><td>${teamName(r)}</td>${cells.map(v => `<td>${v}</td>`).join('')}</tr>`;
+  }).join('');
+
+  return `
+    <h3 class="section-title">Season by Season <span class="section-sub">— ${scope}</span></h3>
+    <div class="table-wrap">
+    <table class="stats-table">
+      <thead><tr>${headers.map(h => `<th>${h}</th>`).join('')}</tr></thead>
+      <tbody>${body}</tbody>
+    </table>
+    </div>`;
+}
+
+function renderLast5(p) {
+  const games = p.last5Games || [];
+  if (!games.length) return '';
+  const isGoalie = p.position === 'G';
+  const headers = isGoalie
+    ? ['Date','Opp','H/R','W/L','SA','GA','SV%','TOI']
+    : ['Date','Opp','H/R','G','A','P','+/-','PIM','SOG','Shifts','TOI'];
+
+  const body = games.map(g => {
+    const opp = g.opponentAbbrev || '—';
+    const hr = g.homeRoadFlag || '—';
+    if (isGoalie) {
+      const decision = g.decision || '—'; // W/L/OTL
+      return `<tr>
+        <td>${g.gameDate || '—'}</td><td>${opp}</td><td>${hr}</td>
+        <td>${decision}</td><td>${num(g.shotsAgainst)}</td><td>${num(g.goalsAgainst)}</td>
+        <td>${pct(g.savePctg)}</td><td>${g.toi || '—'}</td>
+      </tr>`;
+    }
+    return `<tr>
+      <td>${g.gameDate || '—'}</td><td>${opp}</td><td>${hr}</td>
+      <td>${num(g.goals)}</td><td>${num(g.assists)}</td><td>${num(g.points)}</td>
+      <td>${num(g.plusMinus)}</td><td>${num(g.pim)}</td><td>${num(g.shots)}</td>
+      <td>${num(g.shifts)}</td><td>${g.toi || '—'}</td>
+    </tr>`;
+  }).join('');
+
+  return `
+    <h3 class="section-title">Last 5 Games</h3>
+    <div class="table-wrap">
+    <table class="stats-table">
+      <thead><tr>${headers.map(h => `<th>${h}</th>`).join('')}</tr></thead>
+      <tbody>${body}</tbody>
+    </table>
+    </div>`;
 }
 
 function renderProfile(p) {
@@ -277,6 +385,9 @@ function renderProfile(p) {
   const headshot = p.headshot
     ? `<img class="headshot" src="${p.headshot}" alt="${name}" onerror="this.style.display='none'" />`
     : '';
+  const teamLogo = p.teamLogo
+    ? `<img class="team-logo" src="${p.teamLogo}" alt="${team}" onerror="this.style.display='none'" />`
+    : '';
 
   els.profile.innerHTML = `
     <div class="profile-header">
@@ -286,15 +397,19 @@ function renderProfile(p) {
         <div class="profile-head-meta">
           ${p.sweaterNumber ? `<span class="sweater">#${p.sweaterNumber}</span>` : ''}
           ${p.position ? `<span class="position">${p.position}</span>` : ''}
+          ${teamLogo}
           <span class="team-line">${team}</span>
         </div>
       </div>
     </div>
+    ${renderHonors(p)}
     <h3 class="section-title">Bio</h3>
     ${bio}
     <h3 class="section-title">Draft</h3>
     ${draft}
     ${stats}
+    ${renderSeasonTotals(p)}
+    ${renderLast5(p)}
   `;
 }
 
