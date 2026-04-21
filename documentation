@@ -1,0 +1,31 @@
+What
+----
+
+Version 1
+==========
+1. User pick  NHL region from dropdown, then team drop down appears
+2. User picks a hockey team (all NHL) from drop down
+3. drop down with all players (head coach also if  data is easily accessible ) - user picks one
+4. profile appears with all available data/stats, no headshot (will be added in V2)
+5. provide list of datapoints/stats available but not yet displayed
+
+
+Version 2
+==========
+- replace region/team drop downs with map with clickable team logos
+- add headshot for players
+
+
+
+Specs
+========
+- No DB. files only
+hosted on puckdrop.sharpestkid.com
+-2 streams:
+ a. data acquisition - standalone script
+ b. build the site
+
+I will make the DNS change on godaddy, you will publish it to render. I'll give you the render api key
+
+Github repo: https://github.com/klosecoaching/sharpestKid_puckdrop
+

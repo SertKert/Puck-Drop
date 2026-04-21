@@ -1,0 +1,36 @@
+id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
+8477979,Nicolas,Aube-Kubel,Nicolas Aube-Kubel,16,R,R,72,213,1996-05-10,CAN,https://assets.nhle.com/mugs/nhl/20252026/MIN/8477979.png
+8481557,Matt,Boldy,Matt Boldy,12,L,L,74,201,2001-04-05,USA,https://assets.nhle.com/mugs/nhl/20252026/MIN/8481557.png
+8481553,Bobby,Brink,Bobby Brink,10,R,R,68,169,2001-07-08,USA,https://assets.nhle.com/mugs/nhl/20252026/MIN/8481553.png
+8478493,Joel,Eriksson Ek,Joel Eriksson Ek,14,C,L,75,207,1997-01-29,SWE,https://assets.nhle.com/mugs/nhl/20252026/MIN/8478493.png
+8477952,Robby,Fabbri,Robby Fabbri,21,C,L,71,185,1996-01-22,CAN,https://assets.nhle.com/mugs/nhl/20252026/MIN/8477952.png
+8475220,Marcus,Foligno,Marcus Foligno,17,L,L,75,226,1991-08-10,USA,https://assets.nhle.com/mugs/nhl/20252026/MIN/8475220.png
+8473422,Nick,Foligno,Nick Foligno,71,L,L,72,210,1987-10-31,USA,https://assets.nhle.com/mugs/nhl/20252026/MIN/8473422.png
+8483452,Hunter,Haight,Hunter Haight,37,C,R,70,173,2004-04-04,CAN,https://assets.nhle.com/mugs/nhl/20252026/MIN/8483452.png
+8477451,Ryan,Hartman,Ryan Hartman,38,R,R,72,197,1994-09-20,USA,https://assets.nhle.com/mugs/nhl/20252026/MIN/8477451.png
+8475149,Marcus,Johansson,Marcus Johansson,90,L,L,73,203,1990-10-06,SWE,https://assets.nhle.com/mugs/nhl/20252026/MIN/8475149.png
+8480259,Ben,Jones,Ben Jones,39,C,L,72,187,1999-02-26,CAN,https://assets.nhle.com/mugs/nhl/20252026/MIN/8480259.png
+8478864,Kirill,Kaprizov,Kirill Kaprizov,97,L,L,70,202,1997-04-26,RUS,https://assets.nhle.com/mugs/nhl/20252026/MIN/8478864.png
+8477446,Michael,McCarron,Michael McCarron,47,C,R,78,232,1995-03-07,USA,https://assets.nhle.com/mugs/nhl/20252026/MIN/8477446.png
+8481477,Nico,Sturm,Nico Sturm,78,C,L,75,209,1995-05-03,DEU,https://assets.nhle.com/mugs/nhl/20252026/MIN/8481477.png
+8475765,Vladimir,Tarasenko,Vladimir Tarasenko,91,R,L,73,219,1991-12-13,RUS,https://assets.nhle.com/mugs/nhl/20252026/MIN/8475765.png
+8478508,Yakov,Trenin,Yakov Trenin,13,C,L,74,201,1997-01-13,RUS,https://assets.nhle.com/mugs/nhl/20252026/MIN/8478508.png
+8483525,Danila,Yurov,Danila Yurov,22,R,L,73,178,2003-12-22,RUS,https://assets.nhle.com/mugs/nhl/20252026/MIN/8483525.png
+8475692,Mats,Zuccarello,Mats Zuccarello,36,R,L,68,181,1987-09-01,NOR,https://assets.nhle.com/mugs/nhl/20252026/MIN/8475692.png
+8474567,Zach,Bogosian,Zach Bogosian,24,D,R,75,231,1990-07-15,USA,https://assets.nhle.com/mugs/nhl/20252026/MIN/8474567.png
+8476463,Jonas,Brodin,Jonas Brodin,25,D,L,74,196,1993-07-12,SWE,https://assets.nhle.com/mugs/nhl/20252026/MIN/8476463.png
+8482122,Brock,Faber,Brock Faber,7,D,R,73,200,2002-08-22,USA,https://assets.nhle.com/mugs/nhl/20252026/MIN/8482122.png
+8486166,Viking,Gustafsson Nyberg,Viking Gustafsson Nyberg,6,D,,78,225,2003-09-21,SWE,https://assets.nhle.com/mugs/nhl/20252026/MIN/8486166.png
+8480800,Quinn,Hughes,Quinn Hughes,43,D,L,70,180,1999-10-14,USA,https://assets.nhle.com/mugs/nhl/20252026/MIN/8480800.png
+8482094,Daemon,Hunt,Daemon Hunt,48,D,L,73,193,2002-05-15,CAN,https://assets.nhle.com/mugs/nhl/20252026/MIN/8482094.png
+8482641,Matt,Kiersted,Matt Kiersted,26,D,L,72,182,1998-04-14,USA,https://assets.nhle.com/mugs/nhl/20252026/MIN/8482641.png
+8482781,Carson,Lambos,Carson Lambos,71,D,L,73,197,2003-01-14,CAN,https://assets.nhle.com/mugs/nhl/20252026/MIN/8482781.png
+8478136,Jake,Middleton,Jake Middleton,5,D,L,75,219,1996-01-02,CAN,https://assets.nhle.com/mugs/nhl/20252026/MIN/8478136.png
+8473507,Jeff,Petry,Jeff Petry,2,D,R,75,208,1987-12-09,USA,https://assets.nhle.com/mugs/nhl/20252026/MIN/8473507.png
+8483766,David,Spacek,David Spacek,82,D,R,72,174,2003-02-18,USA,https://assets.nhle.com/mugs/nhl/20252026/MIN/8483766.png
+8474716,Jared,Spurgeon,Jared Spurgeon,46,D,R,69,166,1989-11-29,CAN,https://assets.nhle.com/mugs/nhl/20252026/MIN/8474716.png
+8479406,Filip,Gustavsson,Filip Gustavsson,32,G,L,74,184,1998-06-07,SWE,https://assets.nhle.com/mugs/nhl/20252026/MIN/8479406.png
+8483918,Riley,Mercer,Riley Mercer,,G,L,73,200,2004-03-31,CAN,https://assets.nhle.com/mugs/nhl/20252026/MIN/8483918.png
+8477361,Cal,Petersen,Cal Petersen,40,G,R,74,185,1994-10-19,USA,https://assets.nhle.com/mugs/nhl/20252026/MIN/8477361.png
+8482661,Jesper,Wallstedt,Jesper Wallstedt,30,G,L,75,214,2002-11-14,SWE,https://assets.nhle.com/mugs/nhl/20252026/MIN/8482661.png
+8485037,Chase,Wutzke,Chase Wutzke,,G,L,74,158,2006-07-26,CAN,https://assets.nhle.com/mugs/nhl/20252026/MIN/8485037.png

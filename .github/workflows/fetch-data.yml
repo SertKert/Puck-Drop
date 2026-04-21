@@ -1,0 +1,35 @@
+name: Refresh NHL data
+
+on:
+  schedule:
+    # Daily at 09:00 UTC (early morning PT / late morning ET).
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch NHL data
+        run: node scripts/fetch-data.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "puckdrop-bot"
+          git config user.email "puckdrop-bot@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore(data): daily refresh $(date -u +%Y-%m-%d)"
+            git push
+          fi

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PuckDrop — NHL Player Explorer</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>PuckDrop</h1>
+    <p class="tagline">NHL player profiles — pick a conference, division, team, and player.</p>
+  </header>
+
+  <main>
+    <section class="controls" aria-label="Player selection">
+      <label>
+        <span>Conference</span>
+        <select id="conference-select">
+          <option value="">— select —</option>
+        </select>
+      </label>
+
+      <label>
+        <span>Division</span>
+        <select id="division-select" disabled>
+          <option value="">— select —</option>
+        </select>
+      </label>
+
+      <label>
+        <span>Team</span>
+        <select id="team-select" disabled>
+          <option value="">— select —</option>
+        </select>
+      </label>
+
+      <label>
+        <span>Player</span>
+        <select id="player-select" disabled>
+          <option value="">— select —</option>
+        </select>
+      </label>
+    </section>
+
+    <section id="profile" class="profile" aria-live="polite">
+      <p class="placeholder">Make a selection above to view a player's profile.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p id="manifest-line">PuckDrop — data from the NHL public API.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
