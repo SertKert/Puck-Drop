@@ -1,33 +1,33 @@
-abbrev,name,placeName,commonName,conference,conferenceAbbrev,division,divisionAbbrev,logo
-BOS,Boston Bruins,Boston,Bruins,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/BOS_light.svg?season=20252026
-BUF,Buffalo Sabres,Buffalo,Sabres,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/BUF_light.svg
-DET,Detroit Red Wings,Detroit,Red Wings,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/DET_light.svg?season=20252026
-FLA,Florida Panthers,Florida,Panthers,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/FLA_light.svg
-MTL,Montréal Canadiens,Montréal,Canadiens,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/MTL_light.svg
-OTT,Ottawa Senators,Ottawa,Senators,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/OTT_light.svg
-TBL,Tampa Bay Lightning,Tampa Bay,Lightning,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/TBL_light.svg
-TOR,Toronto Maple Leafs,Toronto,Maple Leafs,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/TOR_light.svg
-CAR,Carolina Hurricanes,Carolina,Hurricanes,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/CAR_light.svg
-CBJ,Columbus Blue Jackets,Columbus,Blue Jackets,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg
-NJD,New Jersey Devils,New Jersey,Devils,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/NJD_light.svg
-NYI,New York Islanders,NY Islanders,Islanders,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/NYI_light.svg
-NYR,New York Rangers,NY Rangers,Rangers,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/NYR_light.svg
-PHI,Philadelphia Flyers,Philadelphia,Flyers,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/PHI_light.svg
-PIT,Pittsburgh Penguins,Pittsburgh,Penguins,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/PIT_light.svg
-WSH,Washington Capitals,Washington,Capitals,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg
-CHI,Chicago Blackhawks,Chicago,Blackhawks,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026
-COL,Colorado Avalanche,Colorado,Avalanche,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/COL_light.svg
-DAL,Dallas Stars,Dallas,Stars,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/DAL_light.svg
-MIN,Minnesota Wild,Minnesota,Wild,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/MIN_light.svg
-NSH,Nashville Predators,Nashville,Predators,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/NSH_light.svg
-STL,St. Louis Blues,St. Louis,Blues,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026
-UTA,Utah Mammoth,Utah,Mammoth,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/UTA_light.svg?season=20252026
-WPG,Winnipeg Jets,Winnipeg,Jets,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/WPG_light.svg
-ANA,Anaheim Ducks,Anaheim,Ducks,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/ANA_light.svg
-CGY,Calgary Flames,Calgary,Flames,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/CGY_light.svg
-EDM,Edmonton Oilers,Edmonton,Oilers,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/EDM_light.svg
-LAK,Los Angeles Kings,Los Angeles,Kings,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/LAK_light.svg
-SJS,San Jose Sharks,San Jose,Sharks,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/SJS_light.svg
-SEA,Seattle Kraken,Seattle,Kraken,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/SEA_light.svg
-VAN,Vancouver Canucks,Vancouver,Canucks,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/VAN_light.svg
-VGK,Vegas Golden Knights,Vegas,Golden Knights,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/VGK_light.svg
+abbrev,name,placeName,commonName,conference,conferenceAbbrev,division,divisionAbbrev,logo,latitude,longitude
+BOS,Boston Bruins,Boston,Bruins,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/BOS_light.svg?season=20252026,42.3662,-71.0621
+BUF,Buffalo Sabres,Buffalo,Sabres,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/BUF_light.svg,42.875,-78.8765
+DET,Detroit Red Wings,Detroit,Red Wings,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/DET_light.svg?season=20252026,42.3411,-83.0552
+FLA,Florida Panthers,Florida,Panthers,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/FLA_light.svg,26.1585,-80.3255
+MTL,Montréal Canadiens,Montréal,Canadiens,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/MTL_light.svg,45.496,-73.5693
+OTT,Ottawa Senators,Ottawa,Senators,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/OTT_light.svg,45.2969,-75.9271
+TBL,Tampa Bay Lightning,Tampa Bay,Lightning,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/TBL_light.svg,27.9427,-82.4519
+TOR,Toronto Maple Leafs,Toronto,Maple Leafs,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/TOR_light.svg,43.6434,-79.3791
+CAR,Carolina Hurricanes,Carolina,Hurricanes,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/CAR_light.svg,35.8032,-78.7218
+CBJ,Columbus Blue Jackets,Columbus,Blue Jackets,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg,39.9695,-83.0061
+NJD,New Jersey Devils,New Jersey,Devils,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/NJD_light.svg,40.7336,-74.1711
+NYI,New York Islanders,NY Islanders,Islanders,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/NYI_light.svg,40.723,-73.7238
+NYR,New York Rangers,NY Rangers,Rangers,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/NYR_light.svg,40.7505,-73.9934
+PHI,Philadelphia Flyers,Philadelphia,Flyers,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/PHI_light.svg,39.9012,-75.172
+PIT,Pittsburgh Penguins,Pittsburgh,Penguins,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/PIT_light.svg,40.4394,-79.9892
+WSH,Washington Capitals,Washington,Capitals,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg,38.8981,-77.021
+CHI,Chicago Blackhawks,Chicago,Blackhawks,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026,41.8807,-87.6742
+COL,Colorado Avalanche,Colorado,Avalanche,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/COL_light.svg,39.7486,-105.0077
+DAL,Dallas Stars,Dallas,Stars,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/DAL_light.svg,32.7906,-96.8103
+MIN,Minnesota Wild,Minnesota,Wild,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/MIN_light.svg,44.9447,-93.1011
+NSH,Nashville Predators,Nashville,Predators,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/NSH_light.svg,36.1592,-86.7785
+STL,St. Louis Blues,St. Louis,Blues,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026,38.6267,-90.2027
+UTA,Utah Mammoth,Utah,Mammoth,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/UTA_light.svg?season=20252026,40.7683,-111.9011
+WPG,Winnipeg Jets,Winnipeg,Jets,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/WPG_light.svg,49.8928,-97.1436
+ANA,Anaheim Ducks,Anaheim,Ducks,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/ANA_light.svg,33.8078,-117.8767
+CGY,Calgary Flames,Calgary,Flames,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/CGY_light.svg,51.0375,-114.0519
+EDM,Edmonton Oilers,Edmonton,Oilers,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/EDM_light.svg,53.5469,-113.4977
+LAK,Los Angeles Kings,Los Angeles,Kings,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/LAK_light.svg,34.043,-118.2673
+SJS,San Jose Sharks,San Jose,Sharks,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/SJS_light.svg,37.3327,-121.9012
+SEA,Seattle Kraken,Seattle,Kraken,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/SEA_light.svg,47.6221,-122.354
+VAN,Vancouver Canucks,Vancouver,Canucks,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/VAN_light.svg,49.2778,-123.109
+VGK,Vegas Golden Knights,Vegas,Golden Knights,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/VGK_light.svg,36.1029,-115.1784

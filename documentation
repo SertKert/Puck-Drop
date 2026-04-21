@@ -14,7 +14,18 @@ Version 2
 ==========
 - replace region/team drop downs with map with clickable team logos
 - add headshot for players
-
+- add the following stats:
+Headshot image (explicitly deferred to V2)
+Team logo
+Per-season career breakdown (year-by-year in seasonTotals)
+last5Games list (date, opponent, home/road, G/A/P, +/-, shifts, TOI)
+Face-off winning %
+Power-play points (we show PPG but not PPP)
+inTop100AllTime, inHHOF badges (show in text not icon)
+Current-season shooting % (we show career only in the column header — 
+Awards / badges (if any)
+isActive flag, playerSlug
+For goalies: gamesStarted, goalsAgainst, shotsAgainst, per-season breakdown
 
 
 Specs

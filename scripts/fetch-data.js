@@ -11,6 +11,22 @@ const path = require('path');
 
 const API = 'https://api-web.nhle.com/v1';
 const ROOT = path.resolve(__dirname, '..');
+
+// Home-arena coordinates for each NHL team. NHL API doesn't expose these,
+// so we keep a hardcoded lookup. Used by V2's map UI.
+const TEAM_COORDS = {
+  ANA: [33.8078, -117.8767], BOS: [42.3662, -71.0621], BUF: [42.8750, -78.8765],
+  CGY: [51.0375, -114.0519], CAR: [35.8032, -78.7218], CHI: [41.8807, -87.6742],
+  COL: [39.7486, -105.0077], CBJ: [39.9695, -83.0061], DAL: [32.7906, -96.8103],
+  DET: [42.3411, -83.0552], EDM: [53.5469, -113.4977], FLA: [26.1585, -80.3255],
+  LAK: [34.0430, -118.2673], MIN: [44.9447, -93.1011], MTL: [45.4960, -73.5693],
+  NSH: [36.1592, -86.7785], NJD: [40.7336, -74.1711], NYI: [40.7230, -73.7238],
+  NYR: [40.7505, -73.9934], OTT: [45.2969, -75.9271], PHI: [39.9012, -75.1720],
+  PIT: [40.4394, -79.9892], SJS: [37.3327, -121.9012], SEA: [47.6221, -122.3540],
+  STL: [38.6267, -90.2027], TBL: [27.9427, -82.4519], TOR: [43.6434, -79.3791],
+  UTA: [40.7683, -111.9011], VAN: [49.2778, -123.1090], VGK: [36.1029, -115.1784],
+  WSH: [38.8981, -77.0210], WPG: [49.8928, -97.1436],
+};
 const DATA = path.join(ROOT, 'data');
 const ROSTERS = path.join(DATA, 'rosters');
 const PLAYERS = path.join(DATA, 'players');
@@ -63,23 +79,29 @@ function ensureDirs() {
 
 async function fetchTeams() {
   const data = await getJson(`${API}/standings/now`);
-  const teams = data.standings.map(t => ({
-    abbrev: t.teamAbbrev.default,
-    name: t.teamName?.default || t.teamCommonName?.default || t.placeName.default,
-    placeName: t.placeName.default,
-    commonName: t.teamCommonName?.default || '',
-    conference: t.conferenceName,
-    conferenceAbbrev: t.conferenceAbbrev,
-    division: t.divisionName,
-    divisionAbbrev: t.divisionAbbrev,
-    logo: t.teamLogo || '',
-  }));
+  const teams = data.standings.map(t => {
+    const abbrev = t.teamAbbrev.default;
+    const coords = TEAM_COORDS[abbrev] || [null, null];
+    return {
+      abbrev,
+      name: t.teamName?.default || t.teamCommonName?.default || t.placeName.default,
+      placeName: t.placeName.default,
+      commonName: t.teamCommonName?.default || '',
+      conference: t.conferenceName,
+      conferenceAbbrev: t.conferenceAbbrev,
+      division: t.divisionName,
+      divisionAbbrev: t.divisionAbbrev,
+      logo: t.teamLogo || '',
+      latitude: coords[0] ?? '',
+      longitude: coords[1] ?? '',
+    };
+  });
   teams.sort((a, b) =>
     a.conference.localeCompare(b.conference) ||
     a.division.localeCompare(b.division) ||
     a.name.localeCompare(b.name));
 
-  const header = ['abbrev','name','placeName','commonName','conference','conferenceAbbrev','division','divisionAbbrev','logo'];
+  const header = ['abbrev','name','placeName','commonName','conference','conferenceAbbrev','division','divisionAbbrev','logo','latitude','longitude'];
   const rows = [csvRow(header), ...teams.map(t => csvRow(header.map(h => t[h])))];
   fs.writeFileSync(path.join(DATA, 'teams.csv'), rows.join('\n') + '\n');
   console.log(`wrote data/teams.csv (${teams.length} teams)`);

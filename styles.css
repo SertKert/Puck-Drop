@@ -42,16 +42,102 @@ header h1 {
 }
 
 main {
-  max-width: 960px;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 1.5rem 1rem 3rem;
 }
 
+/* -- Map ----------------------------------------------------------------- */
+.map-section {
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+#map {
+  height: 480px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  z-index: 0;
+}
+
+/* Map markers — team logo on a division-colored ring */
+.team-marker-wrap { background: transparent !important; border: none !important; }
+.team-marker {
+  width: 40px; height: 40px;
+  border-radius: 50%;
+  border: 3px solid #94a3b8;
+  background: #ffffff;
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 120ms ease;
+}
+.team-marker:hover { transform: scale(1.15); }
+.team-marker img { width: 34px; height: 34px; object-fit: contain; }
+
+.leaflet-tooltip {
+  background: var(--panel);
+  color: var(--text);
+  border: 1px solid var(--border);
+  font-size: 0.85rem;
+}
+.leaflet-tooltip-top::before { border-top-color: var(--panel); }
+.tooltip-div { color: var(--muted); font-size: 0.75rem; margin-left: 0.35rem; }
+
+.legend {
+  margin-top: 0.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+  padding: 0.5rem 0.75rem;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+.legend strong { color: var(--text); margin-right: 0.25rem; }
+.legend .swatch {
+  display: inline-block;
+  width: 14px; height: 14px;
+  border-radius: 50%;
+  margin-right: 0.2rem;
+  vertical-align: middle;
+}
+
+/* -- Controls ------------------------------------------------------------ */
 .controls {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  grid-template-columns: 1fr 2fr;
   gap: 1rem;
+  align-items: end;
   margin-bottom: 2rem;
+}
+@media (max-width: 640px) {
+  .controls { grid-template-columns: 1fr; }
+}
+
+.selected-team {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.55rem 0.75rem;
+}
+.selected-team .label {
+  font-size: 0.75rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+#selected-team-name {
+  font-size: 1.05rem;
+  font-weight: 600;
 }
 
 .controls label {
@@ -74,17 +160,10 @@ main {
   text-transform: none;
   letter-spacing: normal;
 }
+.controls select:disabled { opacity: 0.5; cursor: not-allowed; }
+.controls select:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
 
-.controls select:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-}
-
-.controls select:focus {
-  outline: 2px solid var(--accent);
-  outline-offset: 1px;
-}
-
+/* -- Profile ------------------------------------------------------------- */
 .profile {
   background: var(--panel);
   border: 1px solid var(--border);
@@ -101,35 +180,51 @@ main {
 
 .profile-header {
   display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  gap: 0.75rem;
+  align-items: center;
+  gap: 1.25rem;
   padding-bottom: 1rem;
   border-bottom: 1px solid var(--border);
   margin-bottom: 1.25rem;
+  flex-wrap: wrap;
 }
 
-.profile-header h2 {
-  margin: 0;
+.headshot {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: var(--panel-2);
+  border: 3px solid var(--border);
+  flex-shrink: 0;
+}
+
+.profile-head-text h2 {
+  margin: 0 0 0.35rem;
   font-size: 1.75rem;
 }
 
-.profile-header .sweater {
-  font-size: 1.25rem;
+.profile-head-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.profile-head-meta .sweater {
+  font-size: 1.1rem;
   color: var(--accent);
   font-weight: 600;
 }
 
-.profile-header .position {
-  font-size: 0.9rem;
+.profile-head-meta .position {
+  font-size: 0.8rem;
   padding: 0.15rem 0.5rem;
   background: var(--panel-2);
   border-radius: 4px;
   color: var(--muted);
 }
 
-.profile-header .team-line {
-  width: 100%;
+.profile-head-meta .team-line {
   color: var(--muted);
   font-size: 0.95rem;
 }
@@ -189,7 +284,6 @@ main {
   color: var(--muted);
   margin: 2rem 0;
 }
-
 .error { color: #fca5a5; }
 
 footer {

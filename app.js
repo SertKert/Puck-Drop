@@ -1,22 +1,30 @@
-// PuckDrop frontend.
-// Loads data/teams.csv + per-team roster CSVs + per-player JSON files.
-// No build step, no framework.
+// PuckDrop frontend (V2).
+// Team selection via Leaflet map with one marker per NHL team; click a marker
+// to load that team's roster. Player dropdown + profile card unchanged from V1,
+// except the profile now shows the player's headshot.
 
 const els = {
-  conference: document.getElementById('conference-select'),
-  division: document.getElementById('division-select'),
-  team: document.getElementById('team-select'),
+  map: document.getElementById('map'),
+  selectedTeamName: document.getElementById('selected-team-name'),
   player: document.getElementById('player-select'),
   profile: document.getElementById('profile'),
   manifestLine: document.getElementById('manifest-line'),
 };
 
-let teams = [];        // parsed teams.csv
-let rosterCache = {};  // teamAbbrev -> roster array
+let teams = [];           // parsed teams.csv
+let rosterCache = {};     // teamAbbrev -> roster array
+let selectedTeamAbbrev = null;
+
+// Division → accent color. Applied to marker backgrounds and the CSS legend
+// swatches via a data-attr selector in styles.css.
+const DIVISION_COLORS = {
+  Atlantic: '#38bdf8',
+  Metropolitan: '#a78bfa',
+  Central: '#f472b6',
+  Pacific: '#fb923c',
+};
 
 // --- CSV parsing -----------------------------------------------------------
-// Handles quoted cells with embedded commas and escaped quotes (""). No fancy
-// edge cases needed — we control the writer in scripts/fetch-data.js.
 function parseCsv(text) {
   const rows = [];
   let row = [], cell = '', inQ = false;
@@ -53,7 +61,57 @@ async function fetchJson(url) {
   return res.json();
 }
 
-// --- Dropdown population ---------------------------------------------------
+// --- Map -------------------------------------------------------------------
+function teamMarkerHtml(team) {
+  const color = DIVISION_COLORS[team.division] || '#94a3b8';
+  // Inline SVG fetch would be nicer, but <img> with the NHL logo URL works
+  // fine inside Leaflet's DivIcon.
+  return `<div class="team-marker" style="border-color:${color}" title="${team.name}">
+    <img src="${team.logo}" alt="${team.name}" loading="lazy" />
+  </div>`;
+}
+
+function buildMap() {
+  const map = L.map('map', {
+    center: [44.0, -96.0],
+    zoom: 4,
+    minZoom: 3,
+    maxZoom: 7,
+    worldCopyJump: false,
+    scrollWheelZoom: true,
+  });
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    maxZoom: 19,
+  }).addTo(map);
+
+  for (const t of teams) {
+    if (!t.latitude || !t.longitude) continue;
+    const lat = parseFloat(t.latitude), lng = parseFloat(t.longitude);
+    if (Number.isNaN(lat) || Number.isNaN(lng)) continue;
+
+    const icon = L.divIcon({
+      className: 'team-marker-wrap',
+      html: teamMarkerHtml(t),
+      iconSize: [44, 44],
+      iconAnchor: [22, 22],
+    });
+    const marker = L.marker([lat, lng], { icon, title: t.name }).addTo(map);
+    marker.bindTooltip(`${t.name} <span class="tooltip-div">${t.division}</span>`, { direction: 'top', offset: [0, -18] });
+    marker.on('click', () => selectTeam(t.abbrev));
+  }
+}
+
+function selectTeam(abbrev) {
+  selectedTeamAbbrev = abbrev;
+  const team = teams.find(t => t.abbrev === abbrev);
+  els.selectedTeamName.textContent = team ? team.name : abbrev;
+  els.selectedTeamName.style.color = team ? (DIVISION_COLORS[team.division] || '') : '';
+  onPlayerSelected('');
+  populatePlayers(abbrev);
+}
+
+// --- Player dropdown -------------------------------------------------------
 function fillSelect(select, options, placeholder = '— select —') {
   select.innerHTML = '';
   const def = document.createElement('option');
@@ -68,36 +126,20 @@ function fillSelect(select, options, placeholder = '— select —') {
   }
 }
 
-function populateConferences() {
-  const conferences = [...new Set(teams.map(t => t.conference))].sort();
-  fillSelect(els.conference, conferences.map(c => ({ value: c, label: c })));
-  els.conference.disabled = false;
-}
-
-function populateDivisions(conference) {
-  const divisions = [...new Set(teams.filter(t => t.conference === conference).map(t => t.division))].sort();
-  fillSelect(els.division, divisions.map(d => ({ value: d, label: d })));
-  els.division.disabled = divisions.length === 0;
-}
-
-function populateTeams(conference, division) {
-  const list = teams
-    .filter(t => t.conference === conference && t.division === division)
-    .sort((a, b) => a.name.localeCompare(b.name));
-  fillSelect(els.team, list.map(t => ({ value: t.abbrev, label: t.name })));
-  els.team.disabled = list.length === 0;
-}
-
 async function populatePlayers(teamAbbrev) {
   els.player.disabled = true;
   fillSelect(els.player, [], 'Loading…');
   let roster = rosterCache[teamAbbrev];
   if (!roster) {
-    const csv = await fetchText(`data/rosters/${teamAbbrev}.csv`);
-    roster = parseCsv(csv);
-    rosterCache[teamAbbrev] = roster;
+    try {
+      const csv = await fetchText(`data/rosters/${teamAbbrev}.csv`);
+      roster = parseCsv(csv);
+      rosterCache[teamAbbrev] = roster;
+    } catch (e) {
+      fillSelect(els.player, [], `Failed to load roster: ${e.message}`);
+      return;
+    }
   }
-  // Group by position code for friendlier ordering.
   const positionOrder = { C: 0, L: 1, R: 2, D: 3, G: 4 };
   roster.sort((a, b) => {
     const pa = positionOrder[a.positionCode] ?? 99;
@@ -108,9 +150,11 @@ async function populatePlayers(teamAbbrev) {
   fillSelect(els.player, roster.map(p => {
     const num = p.sweaterNumber ? `#${p.sweaterNumber} ` : '';
     return { value: p.id, label: `${num}${p.fullName} (${p.positionCode})` };
-  }));
+  }), '— select a player —');
   els.player.disabled = roster.length === 0;
 }
+
+els.player.addEventListener('change', () => onPlayerSelected(els.player.value));
 
 // --- Profile rendering -----------------------------------------------------
 function fmtHeight(inches) {
@@ -230,13 +274,21 @@ function renderProfile(p) {
     : '<p class="placeholder" style="margin:0.5rem 0;">Undrafted or no draft data available.</p>';
 
   const stats = isGoalie ? renderGoalieStats(p) : renderSkaterStats(p);
+  const headshot = p.headshot
+    ? `<img class="headshot" src="${p.headshot}" alt="${name}" onerror="this.style.display='none'" />`
+    : '';
 
   els.profile.innerHTML = `
     <div class="profile-header">
-      <h2>${name}</h2>
-      ${p.sweaterNumber ? `<span class="sweater">#${p.sweaterNumber}</span>` : ''}
-      ${p.position ? `<span class="position">${p.position}</span>` : ''}
-      <div class="team-line">${team}</div>
+      ${headshot}
+      <div class="profile-head-text">
+        <h2>${name}</h2>
+        <div class="profile-head-meta">
+          ${p.sweaterNumber ? `<span class="sweater">#${p.sweaterNumber}</span>` : ''}
+          ${p.position ? `<span class="position">${p.position}</span>` : ''}
+          <span class="team-line">${team}</span>
+        </div>
+      </div>
     </div>
     <h3 class="section-title">Bio</h3>
     ${bio}
@@ -248,7 +300,7 @@ function renderProfile(p) {
 
 async function onPlayerSelected(playerId) {
   if (!playerId) {
-    els.profile.innerHTML = '<p class="placeholder">Make a selection above to view a player\'s profile.</p>';
+    els.profile.innerHTML = '<p class="placeholder">Click a team, pick a player to view the profile.</p>';
     return;
   }
   renderLoading();
@@ -260,34 +312,6 @@ async function onPlayerSelected(playerId) {
   }
 }
 
-// --- Event wiring ----------------------------------------------------------
-function resetFrom(level) {
-  const levels = ['division', 'team', 'player'];
-  const start = levels.indexOf(level);
-  for (let i = start; i < levels.length; i++) {
-    fillSelect(els[levels[i]], []);
-    els[levels[i]].disabled = true;
-  }
-  onPlayerSelected('');
-}
-
-els.conference.addEventListener('change', () => {
-  resetFrom('division');
-  const v = els.conference.value;
-  if (v) populateDivisions(v);
-});
-els.division.addEventListener('change', () => {
-  resetFrom('team');
-  const c = els.conference.value, d = els.division.value;
-  if (c && d) populateTeams(c, d);
-});
-els.team.addEventListener('change', () => {
-  resetFrom('player');
-  const t = els.team.value;
-  if (t) populatePlayers(t);
-});
-els.player.addEventListener('change', () => onPlayerSelected(els.player.value));
-
 // --- Boot ------------------------------------------------------------------
 async function boot() {
   try {
@@ -296,10 +320,15 @@ async function boot() {
       fetchJson('data/manifest.json').catch(() => null),
     ]);
     teams = parseCsv(csv);
-    populateConferences();
+    buildMap();
+    // Color the legend swatches using the same division palette as the markers.
+    document.querySelectorAll('.legend .swatch').forEach(el => {
+      const d = el.getAttribute('data-div');
+      if (DIVISION_COLORS[d]) el.style.background = DIVISION_COLORS[d];
+    });
     if (manifest?.updatedAt) {
       const d = new Date(manifest.updatedAt);
-      els.manifestLine.textContent = `Data last updated ${d.toLocaleString()} · ${manifest.teams} teams · ${manifest.players} players`;
+      els.manifestLine.textContent = `Data last updated ${d.toLocaleString()} · ${manifest.teams} teams · ${manifest.players} players · Map tiles © OpenStreetMap contributors`;
     }
   } catch (e) {
     els.profile.innerHTML = `<p class="error">Failed to load team data: ${e.message}</p>`;

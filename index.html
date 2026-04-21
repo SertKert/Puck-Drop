@@ -4,54 +4,52 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>PuckDrop — NHL Player Explorer</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <header>
     <h1>PuckDrop</h1>
-    <p class="tagline">NHL player profiles — pick a conference, division, team, and player.</p>
+    <p class="tagline">Click a team on the map, pick a player, and see their profile.</p>
   </header>
 
   <main>
+    <section class="map-section" aria-label="NHL team map">
+      <div id="map" role="application" aria-label="Map of NHL teams"></div>
+      <div class="legend" aria-label="Division legend">
+        <strong>Divisions</strong>
+        <span class="swatch" data-div="Atlantic"></span>Atlantic
+        <span class="swatch" data-div="Metropolitan"></span>Metropolitan
+        <span class="swatch" data-div="Central"></span>Central
+        <span class="swatch" data-div="Pacific"></span>Pacific
+      </div>
+    </section>
+
     <section class="controls" aria-label="Player selection">
-      <label>
-        <span>Conference</span>
-        <select id="conference-select">
-          <option value="">— select —</option>
-        </select>
-      </label>
-
-      <label>
-        <span>Division</span>
-        <select id="division-select" disabled>
-          <option value="">— select —</option>
-        </select>
-      </label>
-
-      <label>
-        <span>Team</span>
-        <select id="team-select" disabled>
-          <option value="">— select —</option>
-        </select>
-      </label>
-
+      <div class="selected-team">
+        <span class="label">Selected team</span>
+        <span id="selected-team-name">— none —</span>
+      </div>
       <label>
         <span>Player</span>
         <select id="player-select" disabled>
-          <option value="">— select —</option>
+          <option value="">— select a team on the map —</option>
         </select>
       </label>
     </section>
 
     <section id="profile" class="profile" aria-live="polite">
-      <p class="placeholder">Make a selection above to view a player's profile.</p>
+      <p class="placeholder">Click a team, pick a player to view the profile.</p>
     </section>
   </main>
 
   <footer>
-    <p id="manifest-line">PuckDrop — data from the NHL public API.</p>
+    <p id="manifest-line">PuckDrop — data from the NHL public API. Map tiles © OpenStreetMap contributors.</p>
   </footer>
 
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <script src="app.js"></script>
 </body>
 </html>
