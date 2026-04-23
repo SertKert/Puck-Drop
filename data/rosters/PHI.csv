@@ -5,7 +5,9 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8480220,Noah,Cates,Noah Cates,27,L,L,74,194,1999-02-05,USA,https://assets.nhle.com/mugs/nhl/20252026/PHI/8480220.png
 8476461,Sean,Couturier,Sean Couturier,14,C,L,76,210,1992-12-07,USA,https://assets.nhle.com/mugs/nhl/20252026/PHI/8476461.png
 8477989,Christian,Dvorak,Christian Dvorak,22,C,L,73,190,1996-02-02,USA,https://assets.nhle.com/mugs/nhl/20252026/PHI/8477989.png
+8484928,Oscar,Eklind,Oscar Eklind,43,L,L,76,220,1998-07-14,SWE,https://assets.nhle.com/mugs/nhl/20252026/PHI/8484928.png
 8482159,Tyson,Foerster,Tyson Foerster,71,R,R,74,215,2002-01-18,CAN,https://assets.nhle.com/mugs/nhl/20252026/PHI/8482159.png
+8481848,Jacob,Gaucher,Jacob Gaucher,78,C,R,75,185,2001-03-09,CAN,https://assets.nhle.com/mugs/nhl/20252026/PHI/8481848.png
 8476822,Luke,Glendening,Luke Glendening,41,C,R,71,190,1989-04-28,USA,https://assets.nhle.com/mugs/nhl/20252026/PHI/8476822.png
 8483733,Nikita,Grebenkin,Nikita Grebenkin,29,R,L,74,210,2003-05-02,RUS,https://assets.nhle.com/mugs/nhl/20252026/PHI/8483733.png
 8479336,Carl,Grundstrom,Carl Grundstrom,91,R,L,72,200,1997-12-01,SWE,https://assets.nhle.com/mugs/nhl/20252026/PHI/8479336.png
@@ -19,12 +21,15 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8482126,Emil,Andrae,Emil Andrae,36,D,L,69,189,2002-02-23,SWE,https://assets.nhle.com/mugs/nhl/20252026/PHI/8482126.png
 8484148,Oliver,Bonk,Oliver Bonk,59,D,R,74,180,2005-01-09,CAN,https://assets.nhle.com/mugs/nhl/20252026/PHI/8484148.png
 8482142,Jamie,Drysdale,Jamie Drysdale,9,D,R,71,185,2002-04-08,CAN,https://assets.nhle.com/mugs/nhl/20252026/PHI/8482142.png
+8482169,Helge,Grans,Helge Grans,3,D,R,76,205,2002-05-10,SWE,https://assets.nhle.com/mugs/nhl/20252026/PHI/8482169.png
 8483460,David,Jiricek,David Jiricek,5,D,R,76,204,2003-11-28,CZE,https://assets.nhle.com/mugs/nhl/20252026/PHI/8483460.png
 8478454,Noah,Juulsen,Noah Juulsen,47,D,R,74,201,1997-04-02,CAN,https://assets.nhle.com/mugs/nhl/20252026/PHI/8478454.png
+8483760,Hunter,McDonald,Hunter McDonald,75,D,L,76,238,2002-05-11,USA,https://assets.nhle.com/mugs/nhl/20252026/PHI/8483760.png
 8477499,Rasmus,Ristolainen,Rasmus Ristolainen,55,D,R,76,208,1994-10-27,FIN,https://assets.nhle.com/mugs/nhl/20252026/PHI/8477499.png
 8477948,Travis,Sanheim,Travis Sanheim,6,D,L,76,222,1996-03-29,CAN,https://assets.nhle.com/mugs/nhl/20252026/PHI/8477948.png
 8476372,Nick,Seeler,Nick Seeler,24,D,L,75,197,1993-06-03,USA,https://assets.nhle.com/mugs/nhl/20252026/PHI/8476372.png
 8481546,Cam,York,Cam York,8,D,L,72,194,2001-01-05,USA,https://assets.nhle.com/mugs/nhl/20252026/PHI/8481546.png
+8484147,Carson,Bjarnason,Carson Bjarnason,64,G,L,75,186,2005-06-30,CAN,https://assets.nhle.com/mugs/nhl/20252026/PHI/8484147.png
 8481035,Samuel,Ersson,Samuel Ersson,33,G,L,75,194,1999-10-20,SWE,https://assets.nhle.com/mugs/nhl/20252026/PHI/8481035.png
 8482783,Aleksei,Kolosov,Aleksei Kolosov,35,G,L,73,185,2002-01-04,BLR,https://assets.nhle.com/mugs/nhl/20252026/PHI/8482783.png
 8478435,Dan,Vladar,Dan Vladar,80,G,L,77,209,1997-08-20,CZE,https://assets.nhle.com/mugs/nhl/20252026/PHI/8478435.png
