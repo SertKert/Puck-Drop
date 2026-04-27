@@ -1,5 +1,7 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8477964,Ivan,Barbashev,Ivan Barbashev,49,L,L,72,203,1995-12-14,RUS,https://assets.nhle.com/mugs/nhl/20252026/VGK/8477964.png
+8483890,Braeden,Bowman,Braeden Bowman,42,R,R,73,205,2003-06-26,CAN,https://assets.nhle.com/mugs/nhl/20252026/VGK/8483890.png
+8484803,Trevor,Connelly,Trevor Connelly,24,L,L,73,175,2006-02-28,USA,https://assets.nhle.com/mugs/nhl/20252026/VGK/8484803.png
 8481604,Pavel,Dorofeyev,Pavel Dorofeyev,16,R,L,73,194,2000-10-26,RUS,https://assets.nhle.com/mugs/nhl/20252026/VGK/8481604.png
 8475343,Nic,Dowd,Nic Dowd,26,C,R,74,195,1990-05-27,USA,https://assets.nhle.com/mugs/nhl/20252026/VGK/8475343.png
 8478403,Jack,Eichel,Jack Eichel,9,C,R,74,208,1996-10-28,USA,https://assets.nhle.com/mugs/nhl/20252026/VGK/8478403.png
