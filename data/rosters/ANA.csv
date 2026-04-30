@@ -1,5 +1,6 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8484153,Leo,Carlsson,Leo Carlsson,91,C,L,75,208,2004-12-26,SWE,https://assets.nhle.com/mugs/nhl/20252026/ANA/8484153.png
+8483444,Nathan,Gaucher,Nathan Gaucher,41,C,R,75,226,2003-11-06,CAN,https://assets.nhle.com/mugs/nhl/20252026/ANA/8483444.png
 8483445,Cutter,Gauthier,Cutter Gauthier,61,L,L,74,205,2004-01-19,SWE,https://assets.nhle.com/mugs/nhl/20252026/ANA/8483445.png
 8475798,Mikael,Granlund,Mikael Granlund,64,C,L,70,193,1992-02-26,FIN,https://assets.nhle.com/mugs/nhl/20252026/ANA/8475798.png
 8478424,Jansen,Harkins,Jansen Harkins,24,C,L,73,197,1997-05-23,USA,https://assets.nhle.com/mugs/nhl/20252026/ANA/8478424.png
@@ -7,6 +8,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8473986,Alex,Killorn,Alex Killorn,17,L,L,73,205,1989-09-14,CAN,https://assets.nhle.com/mugs/nhl/20252026/ANA/8473986.png
 8475184,Chris,Kreider,Chris Kreider,20,L,L,75,232,1991-04-30,USA,https://assets.nhle.com/mugs/nhl/20252026/ANA/8475184.png
 8482745,Mason,McTavish,Mason McTavish,23,C,L,73,219,2003-01-30,CHE,https://assets.nhle.com/mugs/nhl/20252026/ANA/8482745.png
+8484201,Nico,Myatovic,Nico Myatovic,48,L,L,74,203,2004-12-01,CAN,https://assets.nhle.com/mugs/nhl/20252026/ANA/8484201.png
 8480068,Ryan,Poehling,Ryan Poehling,25,C,L,74,206,1999-01-03,USA,https://assets.nhle.com/mugs/nhl/20252026/ANA/8480068.png
 8484762,Beckett,Sennecke,Beckett Sennecke,45,R,R,75,206,2006-01-28,CAN,https://assets.nhle.com/mugs/nhl/20252026/ANA/8484762.png
 8478873,Troy,Terry,Troy Terry,19,R,R,72,193,1997-09-10,USA,https://assets.nhle.com/mugs/nhl/20252026/ANA/8478873.png
@@ -20,7 +22,9 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8481605,Jackson,LaCombe,Jackson LaCombe,2,D,L,74,208,2001-01-09,USA,https://assets.nhle.com/mugs/nhl/20252026/ANA/8481605.png
 8483490,Pavel,Mintyukov,Pavel Mintyukov,98,D,L,73,207,2003-11-25,RUS,https://assets.nhle.com/mugs/nhl/20252026/ANA/8483490.png
 8482178,Ian,Moore,Ian Moore,3,D,R,75,205,2002-01-04,USA,https://assets.nhle.com/mugs/nhl/20252026/ANA/8482178.png
+8484859,Stian,Solberg,Stian Solberg,50,D,L,74,207,2005-12-29,NOR,https://assets.nhle.com/mugs/nhl/20252026/ANA/8484859.png
 8476885,Jacob,Trouba,Jacob Trouba,65,D,R,75,212,1994-02-26,USA,https://assets.nhle.com/mugs/nhl/20252026/ANA/8476885.png
+8483521,Noah,Warren,Noah Warren,47,D,R,76,224,2004-07-15,CAN,https://assets.nhle.com/mugs/nhl/20252026/ANA/8483521.png
 8482803,Olen,Zellweger,Olen Zellweger,51,D,L,70,193,2003-09-10,CAN,https://assets.nhle.com/mugs/nhl/20252026/ANA/8482803.png
 8483746,Vyacheslav,Buteyets,Vyacheslav Buteyets,32,G,L,76,220,2002-05-29,RUS,https://assets.nhle.com/mugs/nhl/20252026/ANA/8483746.png
 8484391,Damian,Clara,Damian Clara,68,G,L,78,214,2005-01-13,ITA,https://assets.nhle.com/mugs/nhl/20252026/ANA/8484391.png
