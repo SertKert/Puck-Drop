@@ -1,5 +1,6 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8476981,Josh,Anderson,Josh Anderson,17,R,R,75,226,1994-05-07,CAN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8476981.png
+8483424,Owen,Beck,Owen Beck,62,C,R,72,199,2004-02-03,CAN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8483424.png
 8482737,Zachary,Bolduc,Zachary Bolduc,76,R,L,72,187,2003-02-24,CAN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8482737.png
 8481540,Cole,Caufield,Cole Caufield,13,R,R,68,175,2001-01-02,USA,https://assets.nhle.com/mugs/nhl/20252026/MTL/8481540.png
 8481523,Kirby,Dach,Kirby Dach,77,C,R,76,221,2001-01-21,CAN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8481523.png
@@ -14,6 +15,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8480018,Nick,Suzuki,Nick Suzuki,14,C,R,71,207,1999-08-10,CAN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8480018.png
 8480074,Alexandre,Texier,Alexandre Texier,85,L,L,73,196,1999-09-13,FRA,https://assets.nhle.com/mugs/nhl/20252026/MTL/8480074.png
 8480813,Joe,Veleno,Joe Veleno,90,C,L,73,201,2000-01-13,CAN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8480813.png
+8484403,Florian,Xhekaj,Florian Xhekaj,63,L,L,75,195,2004-06-27,CAN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8484403.png
 8478851,Alexandre,Carrier,Alexandre Carrier,45,D,R,71,174,1996-10-08,CAN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8478851.png
 8480865,Noah,Dobson,Noah Dobson,53,D,R,76,200,2000-01-07,CAN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8480865.png
 8483686,Adam,Engstrom,Adam Engstrom,42,D,L,74,193,2003-11-17,SWE,https://assets.nhle.com/mugs/nhl/20252026/MTL/8483686.png
