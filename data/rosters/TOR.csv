@@ -11,6 +11,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8477939,William,Nylander,William Nylander,88,R,R,72,200,1996-05-01,CAN,https://assets.nhle.com/mugs/nhl/20252026/TOR/8477939.png
 8481582,Nicholas,Robertson,Nicholas Robertson,89,L,L,69,180,2001-09-11,USA,https://assets.nhle.com/mugs/nhl/20252026/TOR/8481582.png
 8475166,John,Tavares,John Tavares,91,C,L,73,217,1990-09-20,CAN,https://assets.nhle.com/mugs/nhl/20252026/TOR/8475166.png
+8482126,Emil,Andrae,Emil Andrae,,D,L,69,189,2002-02-23,SWE,https://assets.nhle.com/mugs/nhl/20252026/TOR/8482126.png
 8481122,Simon,Benoit,Simon Benoit,2,D,L,76,210,1998-09-19,CAN,https://assets.nhle.com/mugs/nhl/20252026/TOR/8481122.png
 8478443,Brandon,Carlo,Brandon Carlo,25,D,R,77,227,1996-11-26,USA,https://assets.nhle.com/mugs/nhl/20252026/TOR/8478443.png
 8475171,Oliver,Ekman-Larsson,Oliver Ekman-Larsson,95,D,L,74,190,1991-07-17,SWE,https://assets.nhle.com/mugs/nhl/20252026/TOR/8475171.png
@@ -19,5 +20,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8476853,Morgan,Rielly,Morgan Rielly,44,D,L,73,219,1994-03-09,CAN,https://assets.nhle.com/mugs/nhl/20252026/TOR/8476853.png
 8479442,Troy,Stecher,Troy Stecher,28,D,R,70,184,1994-04-07,CAN,https://assets.nhle.com/mugs/nhl/20252026/TOR/8479442.png
 8475690,Chris,Tanev,Chris Tanev,8,D,R,75,200,1989-12-20,CAN,https://assets.nhle.com/mugs/nhl/20252026/TOR/8475690.png
+8481035,Samuel,Ersson,Samuel Ersson,,G,L,75,194,1999-10-20,SWE,https://assets.nhle.com/mugs/nhl/20252026/TOR/8481035.png
 8476932,Anthony,Stolarz,Anthony Stolarz,41,G,L,78,248,1994-01-20,USA,https://assets.nhle.com/mugs/nhl/20252026/TOR/8476932.png
 8479361,Joseph,Woll,Joseph Woll,60,G,L,75,212,1998-07-12,USA,https://assets.nhle.com/mugs/nhl/20252026/TOR/8479361.png
