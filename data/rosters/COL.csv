@@ -1,6 +1,5 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8482947,Zakhar,Bardakov,Zakhar Bardakov,93,C,L,74,198,2001-02-24,RUS,https://assets.nhle.com/mugs/nhl/20252026/COL/8482947.png
-8479525,Ross,Colton,Ross Colton,20,C,L,72,194,1996-09-11,USA,https://assets.nhle.com/mugs/nhl/20252026/COL/8479525.png
 8480835,Jack,Drury,Jack Drury,18,C,L,71,186,2000-02-03,USA,https://assets.nhle.com/mugs/nhl/20252026/COL/8480835.png
 8475172,Nazem,Kadri,Nazem Kadri,91,C,L,72,185,1990-10-06,CAN,https://assets.nhle.com/mugs/nhl/20252026/COL/8475172.png
 8480448,Parker,Kelly,Parker Kelly,17,C,L,73,185,1999-05-14,CAN,https://assets.nhle.com/mugs/nhl/20252026/COL/8480448.png
