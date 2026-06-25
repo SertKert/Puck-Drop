@@ -6,6 +6,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8477987,Ryan,Donato,Ryan Donato,8,C,L,72,190,1996-04-09,USA,https://assets.nhle.com/mugs/nhl/20252026/CHI/8477987.png
 8485391,Anton,Frondell,Anton Frondell,16,C,L,73,198,2007-05-07,SWE,https://assets.nhle.com/mugs/nhl/20252026/CHI/8485391.png
 8483450,Ryan,Greene,Ryan Greene,20,C,R,73,195,2003-10-21,CAN,https://assets.nhle.com/mugs/nhl/20252026/CHI/8483450.png
+8478413,Jordan,Greenway,Jordan Greenway,,L,L,78,231,1997-02-16,USA,https://assets.nhle.com/mugs/nhl/20252026/CHI/8478413.png
 8478043,Sam,Lafferty,Sam Lafferty,24,C,R,74,205,1995-03-06,USA,https://assets.nhle.com/mugs/nhl/20252026/CHI/8478043.png
 8484185,Nick,Lardis,Nick Lardis,76,L,L,71,165,2005-07-08,CAN,https://assets.nhle.com/mugs/nhl/20252026/CHI/8484185.png
 8478233,Andrew,Mangiapane,Andrew Mangiapane,26,L,L,70,183,1996-04-04,CAN,https://assets.nhle.com/mugs/nhl/20252026/CHI/8478233.png
@@ -15,7 +16,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8482172,Landon,Slaggert,Landon Slaggert,84,L,L,72,180,2002-06-25,USA,https://assets.nhle.com/mugs/nhl/20252026/CHI/8482172.png
 8476882,Teuvo,Teravainen,Teuvo Teravainen,86,C,L,71,191,1994-09-11,FIN,https://assets.nhle.com/mugs/nhl/20252026/CHI/8476882.png
 8476952,Dominic,Toninato,Dominic Toninato,25,C,L,74,201,1994-03-09,USA,https://assets.nhle.com/mugs/nhl/20252026/CHI/8476952.png
-8481806,Louis,Crevier,Louis Crevier,46,D,R,80,228,2001-05-04,CAN,https://assets.nhle.com/mugs/nhl/20252026/CHI/8481806.png
+8481524,Bowen,Byram,Bowen Byram,,D,L,73,205,2001-06-13,CAN,https://assets.nhle.com/mugs/nhl/20252026/CHI/8481524.png
 8482807,Ethan,Del Mastro,Ethan Del Mastro,38,D,L,76,210,2003-01-15,CAN,https://assets.nhle.com/mugs/nhl/20252026/CHI/8482807.png
 8476891,Matt,Grzelcyk,Matt Grzelcyk,48,D,L,70,180,1994-01-05,USA,https://assets.nhle.com/mugs/nhl/20252026/CHI/8476891.png
 8482176,Wyatt,Kaiser,Wyatt Kaiser,44,D,L,72,190,2002-07-31,USA,https://assets.nhle.com/mugs/nhl/20252026/CHI/8482176.png
