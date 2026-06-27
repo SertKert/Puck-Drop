@@ -17,7 +17,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8476871,Tanner,Pearson,Tanner Pearson,70,L,L,73,207,1992-08-10,CAN,https://assets.nhle.com/mugs/nhl/20252026/BUF/8476871.png
 8482097,Jack,Quinn,Jack Quinn,22,R,R,73,185,2001-09-19,CAN,https://assets.nhle.com/mugs/nhl/20252026/BUF/8482097.png
 8479420,Tage,Thompson,Tage Thompson,72,C,R,78,220,1997-10-30,USA,https://assets.nhle.com/mugs/nhl/20252026/BUF/8479420.png
-8484238,Anton,Wahlberg,Anton Wahlberg,92,C,L,76,205,2005-07-04,SWE,https://assets.nhle.com/mugs/nhl/20252026/BUF/8484238.png
 8475722,Jason,Zucker,Jason Zucker,17,L,L,71,198,1992-01-16,USA,https://assets.nhle.com/mugs/nhl/20252026/BUF/8475722.png
 8481806,Louis,Crevier,Louis Crevier,,D,R,80,228,2001-05-04,CAN,https://assets.nhle.com/mugs/nhl/20252026/BUF/8481806.png
 8480839,Rasmus,Dahlin,Rasmus Dahlin,26,D,L,75,204,2000-04-13,SWE,https://assets.nhle.com/mugs/nhl/20252026/BUF/8480839.png
@@ -30,6 +29,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8474568,Luke,Schenn,Luke Schenn,5,D,R,74,225,1989-11-02,CAN,https://assets.nhle.com/mugs/nhl/20252026/BUF/8474568.png
 8479378,Logan,Stanley,Logan Stanley,64,D,L,79,231,1998-05-26,CAN,https://assets.nhle.com/mugs/nhl/20252026/BUF/8479378.png
 8479982,Conor,Timmins,Conor Timmins,21,D,R,75,213,1998-09-18,CAN,https://assets.nhle.com/mugs/nhl/20252026/BUF/8479982.png
+8482803,Olen,Zellweger,Olen Zellweger,,D,L,70,193,2003-09-10,CAN,https://assets.nhle.com/mugs/nhl/20252026/BUF/8482803.png
 8481551,Colten,Ellis,Colten Ellis,92,G,L,73,191,2000-10-05,CAN,https://assets.nhle.com/mugs/nhl/20252026/BUF/8481551.png
 8482221,Devon,Levi,Devon Levi,27,G,L,72,192,2001-12-27,CAN,https://assets.nhle.com/mugs/nhl/20252026/BUF/8482221.png
 8480045,Ukko-Pekka,Luukkonen,Ukko-Pekka Luukkonen,1,G,L,77,223,1999-03-09,FIN,https://assets.nhle.com/mugs/nhl/20252026/BUF/8480045.png

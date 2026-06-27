@@ -2,6 +2,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8478020,Michael,Amadio,Michael Amadio,22,R,R,73,206,1996-05-13,CAN,https://assets.nhle.com/mugs/nhl/20252026/OTT/8478020.png
 8480208,Drake,Batherson,Drake Batherson,19,R,R,75,209,1998-04-27,USA,https://assets.nhle.com/mugs/nhl/20252026/OTT/8480208.png
 8482674,Tyler,Boucher,Tyler Boucher,54,R,R,74,216,2003-01-16,USA,https://assets.nhle.com/mugs/nhl/20252026/OTT/8482674.png
+8477444,Andre,Burakovsky,Andre Burakovsky,,L,L,75,203,1995-02-09,AUT,https://assets.nhle.com/mugs/nhl/20252026/OTT/8477444.png
 8481578,Graeme,Clarke,Graeme Clarke,49,R,R,72,175,2001-04-24,USA,https://assets.nhle.com/mugs/nhl/20252026/OTT/8481578.png
 8476393,Nick,Cousins,Nick Cousins,21,C,L,71,191,1993-07-20,CAN,https://assets.nhle.com/mugs/nhl/20252026/OTT/8476393.png
 8481528,Dylan,Cozens,Dylan Cozens,24,C,R,75,205,2001-02-09,CAN,https://assets.nhle.com/mugs/nhl/20252026/OTT/8481528.png
@@ -29,6 +30,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8481575,Lassi,Thomson,Lassi Thomson,60,D,R,72,195,2000-09-24,FIN,https://assets.nhle.com/mugs/nhl/20252026/OTT/8481575.png
 8484759,Carter,Yakemchuk,Carter Yakemchuk,58,D,R,75,219,2005-09-29,CAN,https://assets.nhle.com/mugs/nhl/20252026/OTT/8484759.png
 8482245,Artem,Zub,Artem Zub,2,D,R,75,201,1995-10-03,RUS,https://assets.nhle.com/mugs/nhl/20252026/OTT/8482245.png
+8481035,Samuel,Ersson,Samuel Ersson,,G,L,75,194,1999-10-20,SWE,https://assets.nhle.com/mugs/nhl/20252026/OTT/8481035.png
 8482447,Leevi,Meriläinen,Leevi Meriläinen,1,G,L,74,196,2002-08-13,FIN,https://assets.nhle.com/mugs/nhl/20252026/OTT/8482447.png
 8473503,James,Reimer,James Reimer,47,G,L,74,200,1988-03-15,CAN,https://assets.nhle.com/mugs/nhl/20252026/OTT/8473503.png
 8476999,Linus,Ullmark,Linus Ullmark,35,G,L,76,223,1993-07-31,SWE,https://assets.nhle.com/mugs/nhl/20252026/OTT/8476999.png
