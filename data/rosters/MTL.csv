@@ -7,7 +7,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8476479,Phillip,Danault,Phillip Danault,24,C,L,73,200,1993-02-24,CAN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8476479.png
 8484984,Ivan,Demidov,Ivan Demidov,93,R,L,73,192,2005-12-10,RUS,https://assets.nhle.com/mugs/nhl/20252026/MTL/8484984.png
 8478133,Jake,Evans,Jake Evans,71,C,R,72,190,1996-06-02,CAN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8478133.png
-8475848,Brendan,Gallagher,Brendan Gallagher,11,R,R,69,185,1992-05-06,CAN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8475848.png
 8482775,Oliver,Kapanen,Oliver Kapanen,91,C,R,74,194,2003-07-29,SWE,https://assets.nhle.com/mugs/nhl/20252026/MTL/8482775.png
 8479339,Patrik,Laine,Patrik Laine,92,R,R,76,208,1998-04-19,FIN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8479339.png
 8481618,Alex,Newhook,Alex Newhook,15,C,L,71,200,2001-01-28,CAN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8481618.png
@@ -24,6 +23,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8476875,Mike,Matheson,Mike Matheson,8,D,L,74,196,1994-02-27,CAN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8476875.png
 8484220,David,Reinbacher,David Reinbacher,64,D,R,75,207,2004-10-25,AUT,https://assets.nhle.com/mugs/nhl/20252026/MTL/8484220.png
 8481593,Jayden,Struble,Jayden Struble,47,D,L,72,207,2001-09-08,USA,https://assets.nhle.com/mugs/nhl/20252026/MTL/8481593.png
+8483763,Maksymilian,Szuber,Maksymilian Szuber,,D,L,75,215,2002-08-25,POL,https://assets.nhle.com/mugs/nhl/20252026/MTL/8483763.png
 8482964,Arber,Xhekaj,Arber Xhekaj,72,D,L,76,240,2001-01-30,CAN,https://assets.nhle.com/mugs/nhl/20252026/MTL/8482964.png
 8482487,Jakub,Dobes,Jakub Dobes,75,G,L,76,215,2001-05-27,CZE,https://assets.nhle.com/mugs/nhl/20252026/MTL/8482487.png
 8484170,Jacob,Fowler,Jacob Fowler,32,G,L,73,223,2004-11-24,USA,https://assets.nhle.com/mugs/nhl/20252026/MTL/8484170.png

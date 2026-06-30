@@ -4,6 +4,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8482475,Egor,Chinakhov,Egor Chinakhov,59,R,L,73,203,2001-02-01,RUS,https://assets.nhle.com/mugs/nhl/20252026/PIT/8482475.png
 8471675,Sidney,Crosby,Sidney Crosby,87,C,L,71,200,1987-08-07,CAN,https://assets.nhle.com/mugs/nhl/20252026/PIT/8471675.png
 8480980,Connor,Dewar,Connor Dewar,19,C,L,70,187,1999-06-26,CAN,https://assets.nhle.com/mugs/nhl/20252026/PIT/8480980.png
+8481019,David,Gustafsson,David Gustafsson,,C,L,74,196,2000-04-11,SWE,https://assets.nhle.com/mugs/nhl/20252026/PIT/8481019.png
 8480842,Filip,Hallander,Filip Hallander,11,C,L,73,203,2000-06-29,SWE,https://assets.nhle.com/mugs/nhl/20252026/PIT/8480842.png
 8475763,Kevin,Hayes,Kevin Hayes,13,R,L,75,217,1992-05-08,USA,https://assets.nhle.com/mugs/nhl/20252026/PIT/8475763.png
 8485414,Ben,Kindel,Ben Kindel,81,C,R,71,182,2007-04-19,CAN,https://assets.nhle.com/mugs/nhl/20252026/PIT/8485414.png
@@ -24,7 +25,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8486169,Jake,Livanavage,Jake Livanavage,57,D,,71,190,2004-05-06,USA,https://assets.nhle.com/mugs/nhl/20252026/PIT/8486169.png
 8478854,Ryan,Shea,Ryan Shea,5,D,L,73,200,1997-02-11,USA,https://assets.nhle.com/mugs/nhl/20252026/PIT/8478854.png
 8482470,Ilya,Solovyov,Ilya Solovyov,7,D,L,75,208,2000-07-20,BLR,https://assets.nhle.com/mugs/nhl/20252026/PIT/8482470.png
-8481030,Jack,St. Ivany,Jack St. Ivany,3,D,R,76,197,1999-07-22,USA,https://assets.nhle.com/mugs/nhl/20252026/PIT/8481030.png
 8478450,Parker,Wotherspoon,Parker Wotherspoon,28,D,L,73,190,1997-08-24,CAN,https://assets.nhle.com/mugs/nhl/20252026/PIT/8478450.png
 8481668,Arturs,Silovs,Arturs Silovs,37,G,L,76,208,2001-03-22,LVA,https://assets.nhle.com/mugs/nhl/20252026/PIT/8481668.png
 8479973,Stuart,Skinner,Stuart Skinner,74,G,L,76,215,1998-11-01,CAN,https://assets.nhle.com/mugs/nhl/20252026/PIT/8479973.png

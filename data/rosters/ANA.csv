@@ -3,6 +3,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8483444,Nathan,Gaucher,Nathan Gaucher,41,C,R,75,226,2003-11-06,CAN,https://assets.nhle.com/mugs/nhl/20252026/ANA/8483444.png
 8483445,Cutter,Gauthier,Cutter Gauthier,61,L,L,74,205,2004-01-19,SWE,https://assets.nhle.com/mugs/nhl/20252026/ANA/8483445.png
 8475798,Mikael,Granlund,Mikael Granlund,64,C,L,70,193,1992-02-26,FIN,https://assets.nhle.com/mugs/nhl/20252026/ANA/8475798.png
+8478421,A.J.,Greer,A.J. Greer,,L,L,75,224,1996-12-14,CAN,https://assets.nhle.com/mugs/nhl/20252026/ANA/8478421.png
 8478424,Jansen,Harkins,Jansen Harkins,24,C,L,73,197,1997-05-23,USA,https://assets.nhle.com/mugs/nhl/20252026/ANA/8478424.png
 8477527,Ross,Johnston,Ross Johnston,44,L,L,77,232,1994-02-18,CAN,https://assets.nhle.com/mugs/nhl/20252026/ANA/8477527.png
 8473986,Alex,Killorn,Alex Killorn,17,L,L,73,205,1989-09-14,CAN,https://assets.nhle.com/mugs/nhl/20252026/ANA/8473986.png
@@ -15,7 +16,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8479705,Jeffrey,Viel,Jeffrey Viel,28,L,L,73,214,1997-01-28,CAN,https://assets.nhle.com/mugs/nhl/20252026/ANA/8479705.png
 8484238,Anton,Wahlberg,Anton Wahlberg,,C,L,76,205,2005-07-04,SWE,https://assets.nhle.com/mugs/nhl/20252026/ANA/8484238.png
 8485512,Tim,Washe,Tim Washe,42,C,L,75,212,2001-08-25,USA,https://assets.nhle.com/mugs/nhl/20252026/ANA/8485512.png
-8475462,Radko,Gudas,Radko Gudas,7,D,R,72,208,1990-06-05,CZE,https://assets.nhle.com/mugs/nhl/20252026/ANA/8475462.png
 8481563,Drew,Helleson,Drew Helleson,14,D,R,75,208,2001-03-26,USA,https://assets.nhle.com/mugs/nhl/20252026/ANA/8481563.png
 8482731,Tyson,Hinds,Tyson Hinds,60,D,L,75,201,2003-03-12,CAN,https://assets.nhle.com/mugs/nhl/20252026/ANA/8482731.png
 8481605,Jackson,LaCombe,Jackson LaCombe,2,D,L,74,208,2001-01-09,USA,https://assets.nhle.com/mugs/nhl/20252026/ANA/8481605.png
