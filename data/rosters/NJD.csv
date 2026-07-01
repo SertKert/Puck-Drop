@@ -1,5 +1,6 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8475760,Nick,Bjugstad,Nick Bjugstad,72,C,R,78,210,1992-07-17,USA,https://assets.nhle.com/mugs/nhl/20252026/NJD/8475760.png
+8480003,Jesper,Boqvist,Jesper Boqvist,70,C,L,73,191,1998-10-30,SWE,https://assets.nhle.com/mugs/nhl/20252026/NJD/8480003.png
 8479407,Jesper,Bratt,Jesper Bratt,63,L,L,70,175,1998-07-30,SWE,https://assets.nhle.com/mugs/nhl/20252026/NJD/8479407.png
 8477015,Connor,Brown,Connor Brown,16,R,R,72,184,1994-01-14,CAN,https://assets.nhle.com/mugs/nhl/20252026/NJD/8477015.png
 8481032,Paul,Cotter,Paul Cotter,47,L,L,74,213,1999-11-16,USA,https://assets.nhle.com/mugs/nhl/20252026/NJD/8481032.png
@@ -12,6 +13,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8478414,Timo,Meier,Timo Meier,28,R,L,73,220,1996-10-08,CHE,https://assets.nhle.com/mugs/nhl/20252026/NJD/8478414.png
 8482110,Dawson,Mercer,Dawson Mercer,91,C,R,72,180,2001-10-27,CAN,https://assets.nhle.com/mugs/nhl/20252026/NJD/8482110.png
 8476474,Stefan,Noesen,Stefan Noesen,11,R,R,73,205,1993-02-12,USA,https://assets.nhle.com/mugs/nhl/20252026/NJD/8476474.png
+8478542,Evan,Rodrigues,Evan Rodrigues,,C,R,71,182,1993-07-28,CAN,https://assets.nhle.com/mugs/nhl/20252026/NJD/8478542.png
 8480990,Declan,Chisholm,Declan Chisholm,,D,L,73,205,2000-01-12,CAN,https://assets.nhle.com/mugs/nhl/20252026/NJD/8480990.png
 8479395,Dennis,Cholowski,Dennis Cholowski,44,D,L,74,210,1998-02-15,CAN,https://assets.nhle.com/mugs/nhl/20252026/NJD/8479395.png
 8475455,Brenden,Dillon,Brenden Dillon,5,D,L,76,225,1990-11-13,CAN,https://assets.nhle.com/mugs/nhl/20252026/NJD/8475455.png
@@ -21,4 +23,3 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8477488,Brett,Pesce,Brett Pesce,22,D,R,75,206,1994-11-15,USA,https://assets.nhle.com/mugs/nhl/20252026/NJD/8477488.png
 8478399,Jonas,Siegenthaler,Jonas Siegenthaler,71,D,L,74,218,1997-05-06,CHE,https://assets.nhle.com/mugs/nhl/20252026/NJD/8478399.png
 8474596,Jake,Allen,Jake Allen,34,G,L,74,197,1990-08-07,CAN,https://assets.nhle.com/mugs/nhl/20252026/NJD/8474596.png
-8474593,Jacob,Markstrom,Jacob Markstrom,25,G,L,78,207,1990-01-31,SWE,https://assets.nhle.com/mugs/nhl/20252026/NJD/8474593.png
