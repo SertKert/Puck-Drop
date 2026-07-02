@@ -1,5 +1,4 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
-8477416,Oliver,Bjorkstrand,Oliver Bjorkstrand,22,R,R,72,175,1995-04-10,DNK,https://assets.nhle.com/mugs/nhl/20252026/TBL/8477416.png
 8478519,Anthony,Cirelli,Anthony Cirelli,71,C,L,73,193,1997-07-15,CAN,https://assets.nhle.com/mugs/nhl/20252026/TBL/8478519.png
 8483447,Conor,Geekie,Conor Geekie,14,C,L,76,212,2004-05-05,CAN,https://assets.nhle.com/mugs/nhl/20252026/TBL/8483447.png
 8476878,Zemgus,Girgensons,Zemgus Girgensons,28,C,L,75,197,1994-01-05,LVA,https://assets.nhle.com/mugs/nhl/20252026/TBL/8476878.png
@@ -11,10 +10,8 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8483752,Dominic,James,Dominic James,17,C,L,72,190,2002-07-03,USA,https://assets.nhle.com/mugs/nhl/20252026/TBL/8483752.png
 8476453,Nikita,Kucherov,Nikita Kucherov,86,R,L,72,173,1993-06-17,RUS,https://assets.nhle.com/mugs/nhl/20252026/TBL/8476453.png
 8477426,Nick,Paul,Nick Paul,20,L,L,76,234,1995-03-20,CAN,https://assets.nhle.com/mugs/nhl/20252026/TBL/8477426.png
-8470621,Corey,Perry,Corey Perry,10,R,R,75,210,1985-05-16,CAN,https://assets.nhle.com/mugs/nhl/20252026/TBL/8470621.png
 8478010,Brayden,Point,Brayden Point,21,C,R,71,177,1996-03-13,CAN,https://assets.nhle.com/mugs/nhl/20252026/TBL/8478010.png
 8477149,Scott,Sabourin,Scott Sabourin,46,R,R,75,205,1992-07-30,CAN,https://assets.nhle.com/mugs/nhl/20252026/TBL/8477149.png
-8483398,Declan,Carlile,Declan Carlile,67,D,L,75,190,2000-05-18,USA,https://assets.nhle.com/mugs/nhl/20252026/TBL/8483398.png
 8478416,Erik,Cernak,Erik Cernak,81,D,R,76,230,1997-05-28,SVK,https://assets.nhle.com/mugs/nhl/20252026/TBL/8478416.png
 8481719,Max,Crozier,Max Crozier,24,D,R,75,204,2000-04-19,CAN,https://assets.nhle.com/mugs/nhl/20252026/TBL/8481719.png
 8480426,Charle-Edouard,D'Astous,Charle-Edouard D'Astous,51,D,L,74,211,1998-04-21,CAN,https://assets.nhle.com/mugs/nhl/20252026/TBL/8480426.png

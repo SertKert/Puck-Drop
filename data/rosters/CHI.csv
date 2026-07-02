@@ -6,10 +6,8 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8485391,Anton,Frondell,Anton Frondell,16,C,L,73,198,2007-05-07,SWE,https://assets.nhle.com/mugs/nhl/20252026/CHI/8485391.png
 8483450,Ryan,Greene,Ryan Greene,20,C,R,73,195,2003-10-21,CAN,https://assets.nhle.com/mugs/nhl/20252026/CHI/8483450.png
 8478413,Jordan,Greenway,Jordan Greenway,,L,L,78,231,1997-02-16,USA,https://assets.nhle.com/mugs/nhl/20252026/CHI/8478413.png
-8478043,Sam,Lafferty,Sam Lafferty,24,C,R,74,205,1995-03-06,USA,https://assets.nhle.com/mugs/nhl/20252026/CHI/8478043.png
 8484185,Nick,Lardis,Nick Lardis,76,L,L,71,165,2005-07-08,CAN,https://assets.nhle.com/mugs/nhl/20252026/CHI/8484185.png
 8478233,Andrew,Mangiapane,Andrew Mangiapane,26,L,L,70,183,1996-04-04,CAN,https://assets.nhle.com/mugs/nhl/20252026/CHI/8478233.png
-8481624,Ilya,Mikheyev,Ilya Mikheyev,95,R,L,74,192,1994-10-10,RUS,https://assets.nhle.com/mugs/nhl/20252026/CHI/8481624.png
 8484197,Oliver,Moore,Oliver Moore,11,C,L,71,188,2005-01-22,USA,https://assets.nhle.com/mugs/nhl/20252026/CHI/8484197.png
 8483493,Frank,Nazar,Frank Nazar,91,C,R,70,190,2004-01-14,USA,https://assets.nhle.com/mugs/nhl/20252026/CHI/8483493.png
 8482172,Landon,Slaggert,Landon Slaggert,84,L,L,72,180,2002-06-25,USA,https://assets.nhle.com/mugs/nhl/20252026/CHI/8482172.png
@@ -17,7 +15,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8476952,Dominic,Toninato,Dominic Toninato,25,C,L,74,201,1994-03-09,USA,https://assets.nhle.com/mugs/nhl/20252026/CHI/8476952.png
 8481524,Bowen,Byram,Bowen Byram,,D,L,73,205,2001-06-13,CAN,https://assets.nhle.com/mugs/nhl/20252026/CHI/8481524.png
 8482807,Ethan,Del Mastro,Ethan Del Mastro,38,D,L,76,210,2003-01-15,CAN,https://assets.nhle.com/mugs/nhl/20252026/CHI/8482807.png
-8476891,Matt,Grzelcyk,Matt Grzelcyk,48,D,L,70,180,1994-01-05,USA,https://assets.nhle.com/mugs/nhl/20252026/CHI/8476891.png
 8482176,Wyatt,Kaiser,Wyatt Kaiser,44,D,L,72,190,2002-07-31,USA,https://assets.nhle.com/mugs/nhl/20252026/CHI/8482176.png
 8483466,Kevin,Korchinski,Kevin Korchinski,14,D,L,73,185,2004-06-21,CAN,https://assets.nhle.com/mugs/nhl/20252026/CHI/8483466.png
 8484783,Artyom,Levshunov,Artyom Levshunov,55,D,R,74,208,2005-10-28,BLR,https://assets.nhle.com/mugs/nhl/20252026/CHI/8484783.png
