@@ -1,8 +1,6 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8478463,Anthony,Beauvillier,Anthony Beauvillier,72,R,L,71,181,1997-06-08,CAN,https://assets.nhle.com/mugs/nhl/20262027/WSH/8478463.png
-8477380,Jonny,Brodzinski,Jonny Brodzinski,76,C,R,72,206,1993-06-19,USA,https://assets.nhle.com/mugs/nhl/20262027/WSH/8477380.png
 8479400,Pierre-Luc,Dubois,Pierre-Luc Dubois,80,C,L,76,220,1998-06-24,CAN,https://assets.nhle.com/mugs/nhl/20262027/WSH/8479400.png
-8482623,Josh,Dunne,Josh Dunne,40,C,L,76,208,1998-12-08,USA,https://assets.nhle.com/mugs/nhl/20262027/WSH/8482623.png
 8483573,Ethen,Frank,Ethen Frank,53,R,R,71,188,1998-02-05,USA,https://assets.nhle.com/mugs/nhl/20262027/WSH/8483573.png
 8476432,Boone,Jenner,Boone Jenner,22,C,L,74,204,1993-06-15,CAN,https://assets.nhle.com/mugs/nhl/20262027/WSH/8476432.png
 8479385,Jordan,Kyrou,Jordan Kyrou,25,R,R,73,189,1998-05-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/WSH/8479385.png
@@ -18,7 +16,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8479345,Jakob,Chychrun,Jakob Chychrun,6,D,L,74,215,1998-03-31,USA,https://assets.nhle.com/mugs/nhl/20262027/WSH/8479345.png
 8479576,Vincent,Desharnais,Vincent Desharnais,73,D,R,79,225,1996-05-29,CAN,https://assets.nhle.com/mugs/nhl/20262027/WSH/8479576.png
 8480796,Martin,Fehérváry,Martin Fehérváry,42,D,L,74,215,1999-10-06,SVK,https://assets.nhle.com/mugs/nhl/20262027/WSH/8480796.png
-8475718,Justin,Holl,Justin Holl,4,D,R,76,194,1992-01-30,USA,https://assets.nhle.com/mugs/nhl/20262027/WSH/8475718.png
 8484873,Cole,Hutson,Cole Hutson,44,D,L,71,175,2006-06-28,USA,https://assets.nhle.com/mugs/nhl/20262027/WSH/8484873.png
 8480043,Timothy,Liljegren,Timothy Liljegren,27,D,R,73,200,1999-04-30,SWE,https://assets.nhle.com/mugs/nhl/20262027/WSH/8480043.png
 8475795,Dylan,McIlrath,Dylan McIlrath,52,D,R,77,240,1992-04-20,CAN,https://assets.nhle.com/mugs/nhl/20262027/WSH/8475795.png

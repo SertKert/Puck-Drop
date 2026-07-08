@@ -9,7 +9,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8476872,Scott,Laughton,Scott Laughton,21,C,L,73,190,1994-05-30,CAN,https://assets.nhle.com/mugs/nhl/20262027/LAK/8476872.png
 8479675,Trevor,Moore,Trevor Moore,12,L,L,71,195,1995-03-31,USA,https://assets.nhle.com/mugs/nhl/20262027/LAK/8479675.png
 8478550,Artemi,Panarin,Artemi Panarin,10,L,R,72,176,1991-10-30,RUS,https://assets.nhle.com/mugs/nhl/20262027/LAK/8478550.png
-8470621,Corey,Perry,Corey Perry,10,R,R,75,210,1985-05-16,CAN,https://assets.nhle.com/mugs/nhl/20262027/LAK/8470621.png
+8470621,Corey,Perry,Corey Perry,,R,R,75,210,1985-05-16,CAN,https://assets.nhle.com/mugs/nhl/20262027/LAK/8470621.png
 8481532,Alex,Turcotte,Alex Turcotte,15,C,L,71,195,2001-02-26,USA,https://assets.nhle.com/mugs/nhl/20262027/LAK/8481532.png
 8483406,Taylor,Ward,Taylor Ward,52,R,R,74,215,1998-03-31,CAN,https://assets.nhle.com/mugs/nhl/20262027/LAK/8483406.png
 8475692,Mats,Zuccarello,Mats Zuccarello,,C,L,68,181,1987-09-01,NOR,https://assets.nhle.com/mugs/nhl/20262027/LAK/8475692.png
@@ -19,6 +19,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8474563,Drew,Doughty,Drew Doughty,8,D,R,73,210,1989-12-08,CAN,https://assets.nhle.com/mugs/nhl/20262027/LAK/8474563.png
 8475208,Brian,Dumoulin,Brian Dumoulin,2,D,L,76,215,1991-09-06,USA,https://assets.nhle.com/mugs/nhl/20262027/LAK/8475208.png
 8476441,Joel,Edmundson,Joel Edmundson,6,D,L,77,220,1993-06-28,CAN,https://assets.nhle.com/mugs/nhl/20262027/LAK/8476441.png
+8476979,Erik,Gustafsson,Erik Gustafsson,,D,L,72,190,1992-03-14,SWE,https://assets.nhle.com/mugs/nhl/20262027/LAK/8476979.png
 8481059,Scott,Perunovich,Scott Perunovich,,D,L,70,175,1998-08-18,USA,https://assets.nhle.com/mugs/nhl/20262027/LAK/8481059.png
 8476341,Anton,Forsberg,Anton Forsberg,31,G,L,75,200,1992-11-27,SWE,https://assets.nhle.com/mugs/nhl/20262027/LAK/8476341.png
 8475311,Darcy,Kuemper,Darcy Kuemper,35,G,L,77,215,1990-05-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/LAK/8475311.png
