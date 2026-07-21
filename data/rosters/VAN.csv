@@ -1,6 +1,6 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8478444,Brock,Boeser,Brock Boeser,6,R,R,73,208,1997-02-25,USA,https://assets.nhle.com/mugs/nhl/20262027/VAN/8478444.png
-8480078,Filip,Chytil,Filip Chytil,72,C,L,74,210,1999-09-05,CZE,https://assets.nhle.com/mugs/nhl/20262027/VAN/8480078.png
+8480078,Filip,Chytil,Filip Chytil,77,C,L,74,210,1999-09-05,CZE,https://assets.nhle.com/mugs/nhl/20262027/VAN/8480078.png
 8481032,Paul,Cotter,Paul Cotter,47,L,L,74,213,1999-11-16,USA,https://assets.nhle.com/mugs/nhl/20262027/VAN/8481032.png
 8478498,Jake,DeBrusk,Jake DeBrusk,74,L,L,73,198,1996-10-17,CAN,https://assets.nhle.com/mugs/nhl/20262027/VAN/8478498.png
 8475848,Brendan,Gallagher,Brendan Gallagher,7,R,R,69,185,1992-05-06,CAN,https://assets.nhle.com/mugs/nhl/20262027/VAN/8475848.png
@@ -9,9 +9,9 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8483499,Liam,Ohgren,Liam Ohgren,92,L,L,72,187,2004-01-28,SWE,https://assets.nhle.com/mugs/nhl/20262027/VAN/8483499.png
 8480012,Elias,Pettersson,Elias Pettersson,40,C,L,74,176,1998-11-12,SWE,https://assets.nhle.com/mugs/nhl/20262027/VAN/8480012.png
 8482691,Aatu,Räty,Aatu Räty,54,C,L,74,204,2002-11-14,FIN,https://assets.nhle.com/mugs/nhl/20262027/VAN/8482691.png
-8482079,Marco,Rossi,Marco Rossi,93,C,L,69,182,2001-09-23,AUT,https://assets.nhle.com/mugs/nhl/20262027/VAN/8482079.png
+8482079,Marco,Rossi,Marco Rossi,23,C,L,69,182,2001-09-23,AUT,https://assets.nhle.com/mugs/nhl/20262027/VAN/8482079.png
 8484136,Max,Sasson,Max Sasson,63,C,L,73,181,2000-09-05,USA,https://assets.nhle.com/mugs/nhl/20262027/VAN/8484136.png
-8484798,Zeev,Buium,Zeev Buium,24,D,L,72,183,2005-12-07,USA,https://assets.nhle.com/mugs/nhl/20262027/VAN/8484798.png
+8484798,Zeev,Buium,Zeev Buium,8,D,L,72,183,2005-12-07,USA,https://assets.nhle.com/mugs/nhl/20262027/VAN/8484798.png
 8479425,Filip,Hronek,Filip Hronek,17,D,R,72,190,1997-11-02,CZE,https://assets.nhle.com/mugs/nhl/20262027/VAN/8479425.png
 8483768,Victor,Mancini,Victor Mancini,90,D,R,75,229,2002-05-26,USA,https://assets.nhle.com/mugs/nhl/20262027/VAN/8483768.png
 8476467,Jamie,Oleksiak,Jamie Oleksiak,4,D,L,79,252,1992-12-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/VAN/8476467.png
