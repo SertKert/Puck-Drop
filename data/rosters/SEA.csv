@@ -1,6 +1,7 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8482665,Matty,Beniers,Matty Beniers,10,C,L,74,181,2002-11-05,USA,https://assets.nhle.com/mugs/nhl/20262027/SEA/8482665.png
 8484800,Berkly,Catton,Berkly Catton,27,C,L,70,179,2006-01-14,CAN,https://assets.nhle.com/mugs/nhl/20262027/SEA/8484800.png
+8480876,Curtis,Douglas,Curtis Douglas,42,C,L,81,242,2000-03-06,CAN,https://assets.nhle.com/mugs/nhl/20262027/SEA/8480876.png
 8474586,Jordan,Eberle,Jordan Eberle,7,R,R,71,180,1990-05-15,CAN,https://assets.nhle.com/mugs/nhl/20262027/SEA/8474586.png
 8477919,Frederick,Gaudreau,Frederick Gaudreau,89,C,R,72,184,1993-05-01,CAN,https://assets.nhle.com/mugs/nhl/20262027/SEA/8477919.png
 8481554,Kaapo,Kakko,Kaapo Kakko,84,R,L,73,215,2001-02-13,FIN,https://assets.nhle.com/mugs/nhl/20262027/SEA/8481554.png
