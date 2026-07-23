@@ -5,14 +5,15 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8477015,Connor,Brown,Connor Brown,16,R,R,72,184,1994-01-14,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8477015.png
 8479996,Cody,Glass,Cody Glass,12,C,R,75,201,1999-04-01,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8479996.png
 8481721,Arseny,Gritsyuk,Arseny Gritsyuk,81,R,L,72,195,2001-03-15,RUS,https://assets.nhle.com/mugs/nhl/20262027/NJD/8481721.png
+8484177,Lenni,Hameenaho,Lenni Hameenaho,29,R,R,73,195,2004-11-07,FIN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8484177.png
 8480002,Nico,Hischier,Nico Hischier,13,C,L,73,200,1999-01-04,CHE,https://assets.nhle.com/mugs/nhl/20262027/NJD/8480002.png
 8481559,Jack,Hughes,Jack Hughes,86,C,L,71,175,2001-05-14,USA,https://assets.nhle.com/mugs/nhl/20262027/NJD/8481559.png
-8477511,Anthony,Mantha,Anthony Mantha,,R,L,77,240,1994-09-16,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8477511.png
+8477511,Anthony,Mantha,Anthony Mantha,39,R,L,77,240,1994-09-16,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8477511.png
 8478414,Timo,Meier,Timo Meier,28,R,L,73,220,1996-10-08,CHE,https://assets.nhle.com/mugs/nhl/20262027/NJD/8478414.png
 8482110,Dawson,Mercer,Dawson Mercer,91,C,R,72,180,2001-10-27,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8482110.png
 8476474,Stefan,Noesen,Stefan Noesen,11,R,R,73,205,1993-02-12,USA,https://assets.nhle.com/mugs/nhl/20262027/NJD/8476474.png
-8478542,Evan,Rodrigues,Evan Rodrigues,,C,R,71,182,1993-07-28,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8478542.png
-8480990,Declan,Chisholm,Declan Chisholm,,D,L,73,205,2000-01-12,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8480990.png
+8478542,Evan,Rodrigues,Evan Rodrigues,17,C,R,71,182,1993-07-28,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8478542.png
+8480990,Declan,Chisholm,Declan Chisholm,47,D,L,73,205,2000-01-12,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8480990.png
 8475455,Brenden,Dillon,Brenden Dillon,5,D,L,76,225,1990-11-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8475455.png
 8476462,Dougie,Hamilton,Dougie Hamilton,7,D,R,78,230,1993-06-17,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8476462.png
 8482684,Luke,Hughes,Luke Hughes,43,D,L,74,198,2003-09-09,USA,https://assets.nhle.com/mugs/nhl/20262027/NJD/8482684.png
@@ -20,4 +21,5 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8477488,Brett,Pesce,Brett Pesce,22,D,R,75,206,1994-11-15,USA,https://assets.nhle.com/mugs/nhl/20262027/NJD/8477488.png
 8478399,Jonas,Siegenthaler,Jonas Siegenthaler,71,D,L,74,218,1997-05-06,CHE,https://assets.nhle.com/mugs/nhl/20262027/NJD/8478399.png
 8474596,Jake,Allen,Jake Allen,34,G,L,74,197,1990-08-07,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8474596.png
+8482076,Nico,Daws,Nico Daws,50,G,L,76,205,2000-12-22,DEU,https://assets.nhle.com/mugs/nhl/20262027/NJD/8482076.png
 8479496,David,Rittich,David Rittich,,G,L,75,200,1992-08-19,CZE,https://assets.nhle.com/mugs/nhl/20262027/NJD/8479496.png
