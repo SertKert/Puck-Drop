@@ -1,5 +1,7 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8474150,Mikael,Backlund,Mikael Backlund,11,C,L,72,206,1989-03-17,SWE,https://assets.nhle.com/mugs/nhl/20262027/CGY/8474150.png
+8484782,Andrew,Basha,Andrew Basha,49,L,L,71,174,2005-11-08,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8484782.png
+8484154,Jonathan,Castagna,Jonathan Castagna,,C,L,73,183,2005-04-20,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8484154.png
 8482679,Matt,Coronato,Matt Coronato,27,R,R,70,183,2002-11-14,USA,https://assets.nhle.com/mugs/nhl/20262027/CGY/8482679.png
 8480797,Joel,Farabee,Joel Farabee,86,L,L,72,186,2000-02-25,USA,https://assets.nhle.com/mugs/nhl/20262027/CGY/8480797.png
 8480028,Morgan,Frost,Morgan Frost,16,C,L,72,193,1999-05-14,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8480028.png
@@ -7,19 +9,26 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8486056,Tyson,Gross,Tyson Gross,39,C,R,75,195,2002-09-23,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8486056.png
 8484180,Samuel,Honzek,Samuel Honzek,29,L,L,76,186,2004-11-12,SVK,https://assets.nhle.com/mugs/nhl/20262027/CGY/8484180.png
 8476456,Jonathan,Huberdeau,Jonathan Huberdeau,10,L,L,73,200,1993-06-04,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8476456.png
+8478211,Dryden,Hunt,Dryden Hunt,15,L,L,72,193,1995-11-24,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8478211.png
 8480259,Ben,Jones,Ben Jones,64,C,L,72,187,1999-02-26,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8480259.png
 8482209,Rory,Kerins,Rory Kerins,6,C,L,70,175,2002-04-12,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8482209.png
 8483609,Adam,Klapka,Adam Klapka,43,R,R,80,235,2000-09-14,CZE,https://assets.nhle.com/mugs/nhl/20262027/CGY/8483609.png
+8484821,Sam,Morton,Sam Morton,45,C,L,72,185,1999-07-28,USA,https://assets.nhle.com/mugs/nhl/20262027/CGY/8484821.png
 8481028,Martin,Pospisil,Martin Pospisil,76,C,L,74,173,1999-11-19,SVK,https://assets.nhle.com/mugs/nhl/20262027/CGY/8481028.png
 8481068,Yegor,Sharangovich,Yegor Sharangovich,17,C,L,74,196,1998-06-06,BLR,https://assets.nhle.com/mugs/nhl/20262027/CGY/8481068.png
 8476458,Ryan,Strome,Ryan Strome,22,C,R,73,192,1993-07-11,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8476458.png
+8482766,William,Stromgren,William Stromgren,65,L,L,75,175,2003-06-07,SWE,https://assets.nhle.com/mugs/nhl/20262027/CGY/8482766.png
 8484234,Aydar,Suniev,Aydar Suniev,36,L,L,74,198,2004-11-16,RUS,https://assets.nhle.com/mugs/nhl/20262027/CGY/8484234.png
 8484958,Maxim,Tsyplakov,Maxim Tsyplakov,72,R,L,75,203,1998-09-19,RUS,https://assets.nhle.com/mugs/nhl/20262027/CGY/8484958.png
 8482074,Connor,Zary,Connor Zary,47,C,L,72,178,2001-09-25,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8482074.png
 8480860,Kevin,Bahl,Kevin Bahl,7,D,L,78,230,2000-06-27,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8480860.png
+8482107,Mike,Benning,Mike Benning,,D,R,69,185,2002-01-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8482107.png
 8484150,Hunter,Brzustewicz,Hunter Brzustewicz,48,D,R,72,190,2004-11-29,USA,https://assets.nhle.com/mugs/nhl/20262027/CGY/8484150.png
+8477971,Andreas,Englund,Andreas Englund,,D,L,76,200,1996-01-21,SWE,https://assets.nhle.com/mugs/nhl/20262027/CGY/8477971.png
 8477810,Joel,Hanley,Joel Hanley,44,D,L,71,186,1991-06-08,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8477810.png
+8484481,Axel,Hurtig,Axel Hurtig,,D,L,76,202,2005-06-10,SWE,https://assets.nhle.com/mugs/nhl/20262027/CGY/8484481.png
 8482165,Yan,Kuznetsov,Yan Kuznetsov,37,D,L,76,209,2002-03-09,RUS,https://assets.nhle.com/mugs/nhl/20262027/CGY/8482165.png
+8484256,Jake,Livingstone,Jake Livingstone,,D,R,76,213,1999-04-16,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8484256.png
 8478136,Jake,Middleton,Jake Middleton,55,D,L,75,219,1996-01-02,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8478136.png
 8483495,Simon,Nemec,Simon Nemec,71,D,R,73,190,2004-02-15,SVK,https://assets.nhle.com/mugs/nhl/20262027/CGY/8483495.png
 8481167,Brayden,Pachal,Brayden Pachal,94,D,R,74,202,1999-08-23,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8481167.png
@@ -27,4 +36,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8480727,Zach,Whitecloud,Zach Whitecloud,28,D,R,74,210,1996-11-28,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8480727.png
 8483709,Abram,Wiebe,Abram Wiebe,52,D,L,74,187,2003-08-28,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8483709.png
 8482445,Devin,Cooley,Devin Cooley,1,G,L,77,192,1997-05-25,USA,https://assets.nhle.com/mugs/nhl/20262027/CGY/8482445.png
+8482949,Arsenii,Sergeev,Arsenii Sergeev,40,G,L,75,192,2002-12-16,RUS,https://assets.nhle.com/mugs/nhl/20262027/CGY/8482949.png
 8481692,Dustin,Wolf,Dustin Wolf,32,G,L,72,166,2001-04-16,USA,https://assets.nhle.com/mugs/nhl/20262027/CGY/8481692.png
+8485012,Kirill,Zarubin,Kirill Zarubin,,G,L,75,178,2005-09-20,RUS,https://assets.nhle.com/mugs/nhl/20262027/CGY/8485012.png
