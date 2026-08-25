@@ -8,7 +8,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8482146,Luke,Evangelista,Luke Evangelista,77,R,R,72,183,2002-02-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8482146.png
 8484494,Aiden,Fink,Aiden Fink,18,R,R,70,165,2004-11-24,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8484494.png
 8476887,Filip,Forsberg,Filip Forsberg,9,L,R,73,205,1994-08-13,SWE,https://assets.nhle.com/mugs/nhl/20262027/NSH/8476887.png
-8485005,Hiroki,Gojsic,Hiroki Gojsic,92,R,R,75,203,2006-05-01,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8485005.png
+8485005,Hiroki,Gojsic,Hiroki Gojsic,53,R,R,75,203,2006-05-01,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8485005.png
 8481535,Nils,Hoglander,Nils Hoglander,,L,L,69,185,2000-12-20,SWE,https://assets.nhle.com/mugs/nhl/20262027/NSH/8481535.png
 8483465,Joakim,Kemell,Joakim Kemell,25,R,R,71,182,2004-04-27,FIN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8483465.png
 8477021,Alexander,Kerfoot,Alexander Kerfoot,,C,L,71,185,1994-08-11,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8477021.png
@@ -28,7 +28,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8484241,Matthew,Wood,Matthew Wood,71,R,R,76,202,2005-02-06,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8484241.png
 8482072,Jack,Ahcan,Jack Ahcan,,D,L,68,180,1997-05-18,USA,https://assets.nhle.com/mugs/nhl/20262027/NSH/8482072.png
 8482111,Justin,Barron,Justin Barron,20,D,R,74,198,2001-11-15,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8482111.png
-8484174,Andrew,Gibson,Andrew Gibson,53,D,R,76,211,2005-02-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8484174.png
+8484174,Andrew,Gibson,Andrew Gibson,92,D,R,76,211,2005-02-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8484174.png
 8485000,Viggo,Gustafsson,Viggo Gustafsson,46,D,L,75,196,2006-09-11,SWE,https://assets.nhle.com/mugs/nhl/20262027/NSH/8485000.png
 8479980,Nicolas,Hague,Nicolas Hague,41,D,L,78,245,1998-12-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8479980.png
 8474600,Roman,Josi,Roman Josi,59,D,L,73,201,1990-06-01,CHE,https://assets.nhle.com/mugs/nhl/20262027/NSH/8474600.png
@@ -42,5 +42,5 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8482482,Adam,Wilsby,Adam Wilsby,83,D,L,73,188,2000-08-07,SWE,https://assets.nhle.com/mugs/nhl/20262027/NSH/8482482.png
 8481020,Justus,Annunen,Justus Annunen,29,G,L,76,210,2000-03-11,FIN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8481020.png
 8483575,Matt,Murray,Matt Murray,32,G,L,73,196,1998-02-02,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8483575.png
-8485473,Isak,Posch,Isak Posch,,G,L,75,209,2002-01-31,SWE,https://assets.nhle.com/mugs/nhl/20262027/NSH/8485473.png
+8485473,Isak,Posch,Isak Posch,30,G,L,75,209,2002-01-31,SWE,https://assets.nhle.com/mugs/nhl/20262027/NSH/8485473.png
 8477424,Juuse,Saros,Juuse Saros,74,G,L,71,180,1995-04-19,FIN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8477424.png
