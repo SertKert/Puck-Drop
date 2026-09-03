@@ -3,6 +3,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8480003,Jesper,Boqvist,Jesper Boqvist,70,C,L,73,191,1998-10-30,SWE,https://assets.nhle.com/mugs/nhl/20262027/NJD/8480003.png
 8479407,Jesper,Bratt,Jesper Bratt,63,L,L,70,175,1998-07-30,SWE,https://assets.nhle.com/mugs/nhl/20262027/NJD/8479407.png
 8477015,Connor,Brown,Connor Brown,16,R,R,72,184,1994-01-14,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8477015.png
+8482146,Luke,Evangelista,Luke Evangelista,77,R,R,72,183,2002-02-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8482146.png
 8483439,Josh,Filmon,Josh Filmon,89,L,L,73,158,2004-03-18,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8483439.png
 8479996,Cody,Glass,Cody Glass,12,C,R,75,201,1999-04-01,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8479996.png
 8481721,Arseny,Gritsyuk,Arseny Gritsyuk,81,R,L,72,195,2001-03-15,RUS,https://assets.nhle.com/mugs/nhl/20262027/NJD/8481721.png
@@ -19,7 +20,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8476474,Stefan,Noesen,Stefan Noesen,11,R,R,73,205,1993-02-12,USA,https://assets.nhle.com/mugs/nhl/20262027/NJD/8476474.png
 8483841,Xavier,Parent,Xavier Parent,67,C,L,68,170,2001-03-23,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8483841.png
 8478542,Evan,Rodrigues,Evan Rodrigues,17,C,R,71,182,1993-07-28,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8478542.png
-8484405,Cam,Squires,Cam Squires,77,R,R,72,165,2005-04-11,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8484405.png
+8484405,Cam,Squires,Cam Squires,75,R,R,72,165,2005-04-11,CAN,https://assets.nhle.com/mugs/nhl/20262027/NJD/8484405.png
 8484834,Ben,Steeves,Ben Steeves,37,L,L,68,165,2002-05-10,USA,https://assets.nhle.com/mugs/nhl/20262027/NJD/8484834.png
 8479362,Riley,Tufte,Riley Tufte,10,L,L,78,233,1998-04-10,USA,https://assets.nhle.com/mugs/nhl/20262027/NJD/8479362.png
 8478400,Colin,White,Colin White,36,C,R,73,195,1997-01-30,USA,https://assets.nhle.com/mugs/nhl/20262027/NJD/8478400.png
