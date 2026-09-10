@@ -1,6 +1,6 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8482145,Mavrik,Bourque,Mavrik Bourque,22,C,R,71,187,2002-01-08,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8482145.png
-8482507,Chase,Bradley,Chase Bradley,,L,L,71,180,2002-01-09,USA,https://assets.nhle.com/mugs/nhl/20262027/NSH/8482507.png
+8482507,Chase,Bradley,Chase Bradley,38,L,L,71,180,2002-01-09,USA,https://assets.nhle.com/mugs/nhl/20262027/NSH/8482507.png
 8479525,Ross,Colton,Ross Colton,79,C,L,72,194,1996-09-11,USA,https://assets.nhle.com/mugs/nhl/20262027/NSH/8479525.png
 8480835,Jack,Drury,Jack Drury,18,C,L,71,186,2000-02-03,USA,https://assets.nhle.com/mugs/nhl/20262027/NSH/8480835.png
 8481726,Adam,Edstrom,Adam Edstrom,84,C,L,79,232,2000-10-12,SWE,https://assets.nhle.com/mugs/nhl/20262027/NSH/8481726.png
@@ -25,7 +25,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8482103,Ozzy,Wiesblatt,Ozzy Wiesblatt,89,C,R,70,183,2002-03-09,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8482103.png
 8484412,Joey,Willis,Joey Willis,61,C,L,71,184,2005-03-14,USA,https://assets.nhle.com/mugs/nhl/20262027/NSH/8484412.png
 8484241,Matthew,Wood,Matthew Wood,71,R,R,76,202,2005-02-06,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8484241.png
-8482072,Jack,Ahcan,Jack Ahcan,,D,L,68,180,1997-05-18,USA,https://assets.nhle.com/mugs/nhl/20262027/NSH/8482072.png
+8482072,Jack,Ahcan,Jack Ahcan,47,D,L,68,180,1997-05-18,USA,https://assets.nhle.com/mugs/nhl/20262027/NSH/8482072.png
 8482111,Justin,Barron,Justin Barron,20,D,R,74,198,2001-11-15,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8482111.png
 8484174,Andrew,Gibson,Andrew Gibson,92,D,R,76,211,2005-02-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8484174.png
 8485000,Viggo,Gustafsson,Viggo Gustafsson,40,D,L,75,196,2006-09-11,SWE,https://assets.nhle.com/mugs/nhl/20262027/NSH/8485000.png
@@ -35,7 +35,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8484196,Tanner,Molendyk,Tanner Molendyk,50,D,L,72,190,2005-02-03,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8484196.png
 8485636,Daniel,Nieminen,Daniel Nieminen,54,D,L,72,199,2006-03-01,FIN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8485636.png
 8480246,Nick,Perbix,Nick Perbix,48,D,R,76,206,1998-06-15,USA,https://assets.nhle.com/mugs/nhl/20262027/NSH/8480246.png
-8481715,Hunter,Skinner,Hunter Skinner,,D,R,75,195,2001-04-29,USA,https://assets.nhle.com/mugs/nhl/20262027/NSH/8481715.png
+8481715,Hunter,Skinner,Hunter Skinner,57,D,R,75,195,2001-04-29,USA,https://assets.nhle.com/mugs/nhl/20262027/NSH/8481715.png
 8476869,Brady,Skjei,Brady Skjei,76,D,L,75,210,1994-03-26,USA,https://assets.nhle.com/mugs/nhl/20262027/NSH/8476869.png
 8482715,Ryan,Ufko,Ryan Ufko,12,D,R,72,174,2003-05-07,USA,https://assets.nhle.com/mugs/nhl/20262027/NSH/8482715.png
 8482482,Adam,Wilsby,Adam Wilsby,2,D,L,73,188,2000-08-07,SWE,https://assets.nhle.com/mugs/nhl/20262027/NSH/8482482.png
