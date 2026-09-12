@@ -3,7 +3,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8482703,Colton,Dach,Colton Dach,34,C,L,76,218,2003-01-04,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8482703.png
 8477450,Jason,Dickinson,Jason Dickinson,16,C,L,74,200,1995-07-04,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8477450.png
 8477934,Leon,Draisaitl,Leon Draisaitl,29,C,L,74,209,1995-10-27,DEU,https://assets.nhle.com/mugs/nhl/20262027/EDM/8477934.png
-8480029,Alex,Formenton,Alex Formenton,,L,L,75,195,1999-09-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8480029.png
+8480029,Alex,Formenton,Alex Formenton,26,L,L,75,195,1999-09-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8480029.png
 8479365,Trent,Frederic,Trent Frederic,10,C,L,75,221,1998-02-11,USA,https://assets.nhle.com/mugs/nhl/20262027/EDM/8479365.png
 8483455,Isaac,Howard,Isaac Howard,53,L,L,70,180,2004-03-30,USA,https://assets.nhle.com/mugs/nhl/20262027/EDM/8483455.png
 8485511,Quinn,Hutson,Quinn Hutson,23,R,R,71,176,2002-01-01,USA,https://assets.nhle.com/mugs/nhl/20262027/EDM/8485511.png
@@ -41,6 +41,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8475883,Frederik,Andersen,Frederik Andersen,30,G,L,76,229,1989-10-02,DNK,https://assets.nhle.com/mugs/nhl/20262027/EDM/8475883.png
 8484455,Nathaniel,Day,Nathaniel Day,40,G,L,74,181,2005-02-04,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8484455.png
 8477465,Tristan,Jarry,Tristan Jarry,35,G,L,76,201,1995-04-29,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8477465.png
-8483769,Samuel,Jonsson,Samuel Jonsson,34,G,L,77,217,2003-12-15,SWE,https://assets.nhle.com/mugs/nhl/20262027/EDM/8483769.png
+8483769,Samuel,Jonsson,Samuel Jonsson,33,G,L,77,217,2003-12-15,SWE,https://assets.nhle.com/mugs/nhl/20262027/EDM/8483769.png
 8482221,Devon,Levi,Devon Levi,27,G,L,72,192,2001-12-27,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8482221.png
 8477035,Matt,Tomkins,Matt Tomkins,90,G,L,76,191,1994-06-19,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8477035.png
