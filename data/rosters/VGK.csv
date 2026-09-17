@@ -2,7 +2,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8477964,Ivan,Barbashev,Ivan Barbashev,49,L,L,72,203,1995-12-14,RUS,https://assets.nhle.com/mugs/nhl/20262027/VGK/8477964.png
 8483890,Braeden,Bowman,Braeden Bowman,42,R,R,73,205,2003-06-26,CAN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8483890.png
 8484803,Trevor,Connelly,Trevor Connelly,24,L,L,73,175,2006-02-28,USA,https://assets.nhle.com/mugs/nhl/20262027/VGK/8484803.png
-8482933,Jakub,Demek,Jakub Demek,13,C,L,76,215,2003-06-06,SVK,https://assets.nhle.com/mugs/nhl/20262027/VGK/8482933.png
 8475343,Nic,Dowd,Nic Dowd,26,C,R,74,195,1990-05-27,USA,https://assets.nhle.com/mugs/nhl/20262027/VGK/8475343.png
 8478403,Jack,Eichel,Jack Eichel,9,C,R,74,208,1996-10-28,USA,https://assets.nhle.com/mugs/nhl/20262027/VGK/8478403.png
 8483553,Marc,Gatcomb,Marc Gatcomb,17,C,R,74,200,1999-07-22,USA,https://assets.nhle.com/mugs/nhl/20262027/VGK/8483553.png
@@ -28,7 +27,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8478468,Jeremy,Lauzon,Jeremy Lauzon,5,D,L,75,225,1997-04-28,CAN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8478468.png
 8475188,Brayden,McNabb,Brayden McNabb,3,D,L,76,215,1991-01-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8475188.png
 8477034,Jaycob,Megna,Jaycob Megna,88,D,L,78,214,1992-12-10,USA,https://assets.nhle.com/mugs/nhl/20262027/VGK/8477034.png
-8486083,Juho,Piiparinen,Juho Piiparinen,,D,R,73,201,2008-08-10,FIN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8486083.png
 8477447,Shea,Theodore,Shea Theodore,27,D,L,74,197,1995-08-03,CAN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8477447.png
 8481587,Antti,Tuomisto,Antti Tuomisto,6,D,R,77,217,2001-01-20,FIN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8481587.png
 8478450,Parker,Wotherspoon,Parker Wotherspoon,29,D,L,73,190,1997-08-24,CAN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8478450.png
