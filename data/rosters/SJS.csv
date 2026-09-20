@@ -5,13 +5,13 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8484801,Macklin,Celebrini,Macklin Celebrini,71,C,L,72,190,2006-06-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8484801.png
 8484994,Igor,Chernyshov,Igor Chernyshov,92,L,R,74,195,2005-11-30,RUS,https://assets.nhle.com/mugs/nhl/20262027/SJS/8484994.png
 8480848,Ty,Dellandrea,Ty Dellandrea,10,C,R,74,185,2000-07-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8480848.png
-8479746,Tye,Felhaber,Tye Felhaber,,L,L,71,185,1998-08-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8479746.png
+8479746,Tye,Felhaber,Tye Felhaber,28,L,L,71,185,1998-08-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8479746.png
 8482776,Andre,Gasseau,Andre Gasseau,26,C,L,76,205,2003-07-03,USA,https://assets.nhle.com/mugs/nhl/20262027/SJS/8482776.png
 8478874,Adam,Gaudette,Adam Gaudette,81,R,R,73,190,1996-10-03,USA,https://assets.nhle.com/mugs/nhl/20262027/SJS/8478874.png
 8480825,Patrick,Giles,Patrick Giles,54,R,R,77,218,2000-01-03,USA,https://assets.nhle.com/mugs/nhl/20262027/SJS/8480825.png
 8476624,Barclay,Goodrow,Barclay Goodrow,23,C,L,74,210,1993-02-26,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8476624.png
 8484911,Collin,Graf,Collin Graf,51,R,R,73,190,2002-09-21,USA,https://assets.nhle.com/mugs/nhl/20262027/SJS/8484911.png
-8481228,Jimmy,Huntington,Jimmy Huntington,,C,L,72,200,1998-11-18,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8481228.png
+8481228,Jimmy,Huntington,Jimmy Huntington,15,C,L,72,200,1998-11-18,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8481228.png
 8481517,Brett,Leason,Brett Leason,17,R,R,77,220,1999-04-30,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8481517.png
 8483481,Cam,Lund,Cam Lund,46,C,R,74,195,2004-06-07,USA,https://assets.nhle.com/mugs/nhl/20262027/SJS/8483481.png
 8478975,Mason,Marchment,Mason Marchment,27,L,L,77,212,1995-06-18,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8478975.png
@@ -38,6 +38,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8476885,Jacob,Trouba,Jacob Trouba,65,D,R,75,212,1994-02-26,USA,https://assets.nhle.com/mugs/nhl/20262027/SJS/8476885.png
 8482137,Yaroslav,Askarov,Yaroslav Askarov,30,G,R,75,180,2002-06-16,RUS,https://assets.nhle.com/mugs/nhl/20262027/SJS/8482137.png
 8477480,Eric,Comrie,Eric Comrie,1,G,L,73,190,1995-07-06,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8477480.png
-8480356,Kyle,Keyser,Kyle Keyser,,G,L,74,186,1999-03-08,USA,https://assets.nhle.com/mugs/nhl/20262027/SJS/8480356.png
+8480356,Kyle,Keyser,Kyle Keyser,36,G,L,74,186,1999-03-08,USA,https://assets.nhle.com/mugs/nhl/20262027/SJS/8480356.png
 8477968,Alex,Nedeljkovic,Alex Nedeljkovic,33,G,L,72,205,1996-01-07,USA,https://assets.nhle.com/mugs/nhl/20262027/SJS/8477968.png
-8478492,Ilya,Samsonov,Ilya Samsonov,,G,L,75,208,1997-02-22,RUS,https://assets.nhle.com/mugs/nhl/20262027/SJS/8478492.png
+8478492,Ilya,Samsonov,Ilya Samsonov,35,G,L,75,208,1997-02-22,RUS,https://assets.nhle.com/mugs/nhl/20262027/SJS/8478492.png
