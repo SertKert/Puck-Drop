@@ -9,7 +9,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8473512,Claude,Giroux,Claude Giroux,28,R,R,71,186,1988-01-12,CAN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8473512.png
 8482092,Ridly,Greig,Ridly Greig,71,C,L,72,184,2002-08-08,CAN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8482092.png
 8483676,Stephen,Halliday,Stephen Halliday,34,C,L,76,214,2002-07-02,CAN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8483676.png
-8478173,Hayden,Hodgson,Hayden Hodgson,42,R,R,74,226,1996-03-02,CAN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8478173.png
+8478173,Hayden,Hodgson,Hayden Hodgson,42,R,R,74,221,1996-03-02,CAN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8478173.png
 8477073,Kurtis,MacDermid,Kurtis MacDermid,23,L,L,77,233,1994-03-25,CAN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8477073.png
 8481596,Shane,Pinto,Shane Pinto,12,C,R,75,206,2000-11-12,USA,https://assets.nhle.com/mugs/nhl/20262027/OTT/8481596.png
 8482116,Tim,Stützle,Tim Stützle,18,C,L,72,187,2002-01-15,DEU,https://assets.nhle.com/mugs/nhl/20262027/OTT/8482116.png
@@ -24,5 +24,5 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8484759,Carter,Yakemchuk,Carter Yakemchuk,26,D,R,75,219,2005-09-29,CAN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8484759.png
 8482245,Artem,Zub,Artem Zub,2,D,R,75,201,1995-10-03,RUS,https://assets.nhle.com/mugs/nhl/20262027/OTT/8482245.png
 8481035,Samuel,Ersson,Samuel Ersson,30,G,L,75,194,1999-10-20,SWE,https://assets.nhle.com/mugs/nhl/20262027/OTT/8481035.png
-8482447,Leevi,Meriläinen,Leevi Meriläinen,1,G,L,74,196,2002-08-13,FIN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8482447.png
+8482447,Leevi,Meriläinen,Leevi Meriläinen,1,G,L,75,186,2002-08-13,FIN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8482447.png
 8476999,Linus,Ullmark,Linus Ullmark,35,G,L,76,223,1993-07-31,SWE,https://assets.nhle.com/mugs/nhl/20262027/OTT/8476999.png
