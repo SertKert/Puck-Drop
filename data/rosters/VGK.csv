@@ -14,12 +14,9 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8478483,Mitch,Marner,Mitch Marner,93,R,R,72,180,1997-05-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8478483.png
 8478109,Victor,Olofsson,Victor Olofsson,95,L,L,71,181,1995-07-18,SWE,https://assets.nhle.com/mugs/nhl/20262027/VGK/8478109.png
 8480007,Jonas,Rondbjerg,Jonas Rondbjerg,46,R,L,74,202,1999-03-31,DNK,https://assets.nhle.com/mugs/nhl/20262027/VGK/8480007.png
-8483511,Matyas,Sapovaliv,Matyas Sapovaliv,25,C,L,76,204,2004-02-12,CZE,https://assets.nhle.com/mugs/nhl/20262027/VGK/8483511.png
 8475913,Mark,Stone,Mark Stone,61,R,R,75,210,1992-05-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8475913.png
-8485251,Kai,Uchacz,Kai Uchacz,77,C,R,74,203,2003-06-24,CAN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8485251.png
 8478397,Rasmus,Andersson,Rasmus Andersson,4,D,R,73,202,1996-10-27,SWE,https://assets.nhle.com/mugs/nhl/20262027/VGK/8478397.png
 8479639,Dylan,Coghlan,Dylan Coghlan,52,D,R,74,210,1998-02-19,CAN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8479639.png
-8482141,Lukas,Cormier,Lukas Cormier,51,D,L,71,185,2002-03-27,CAN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8482141.png
 8479602,Jeremy,Davies,Jeremy Davies,84,D,L,71,194,1996-12-04,CAN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8479602.png
 8480874,Adam,Ginning,Adam Ginning,73,D,L,76,225,2000-01-13,SWE,https://assets.nhle.com/mugs/nhl/20262027/VGK/8480874.png
 8478396,Noah,Hanifin,Noah Hanifin,15,D,L,75,206,1997-01-25,USA,https://assets.nhle.com/mugs/nhl/20262027/VGK/8478396.png
@@ -32,4 +29,3 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8478450,Parker,Wotherspoon,Parker Wotherspoon,29,D,L,73,195,1997-08-24,CAN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8478450.png
 8479394,Carter,Hart,Carter Hart,79,G,L,74,196,1998-08-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8479394.png
 8478499,Adin,Hill,Adin Hill,33,G,L,76,218,1996-05-11,CAN,https://assets.nhle.com/mugs/nhl/20262027/VGK/8478499.png
-8482761,Carl,Lindbom,Carl Lindbom,30,G,L,73,186,2003-05-20,SWE,https://assets.nhle.com/mugs/nhl/20262027/VGK/8482761.png

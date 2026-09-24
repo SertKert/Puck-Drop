@@ -23,7 +23,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8484221,Calum,Ritchie,Calum Ritchie,64,C,R,74,200,2005-01-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8484221.png
 8475170,Brayden,Schenn,Brayden Schenn,10,C,L,73,200,1991-08-22,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8475170.png
 8485352,Kashawn,Aitcheson,Kashawn Aitcheson,37,D,L,74,200,2006-09-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8485352.png
-8478451,Ethan,Bear,Ethan Bear,74,D,R,71,219,1997-06-26,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8478451.png
 8477950,Tony,DeAngelo,Tony DeAngelo,77,D,R,72,190,1995-10-24,USA,https://assets.nhle.com/mugs/nhl/20262027/NYI/8477950.png
 8483448,Isaiah,George,Isaiah George,36,D,L,73,203,2004-02-15,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8483448.png
 8482516,Matthew,Kessel,Matthew Kessel,,D,R,75,212,2000-06-23,USA,https://assets.nhle.com/mugs/nhl/20262027/NYI/8482516.png
@@ -35,6 +34,5 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8481569,Marshall,Warren,Marshall Warren,41,D,L,71,195,2001-04-20,USA,https://assets.nhle.com/mugs/nhl/20262027/NYI/8481569.png
 8486136,Joshua,Kotai,Joshua Kotai,,G,R,73,165,2003-03-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8486136.png
 8478009,Ilya,Sorokin,Ilya Sorokin,30,G,L,75,189,1995-08-04,RUS,https://assets.nhle.com/mugs/nhl/20262027/NYI/8478009.png
-8482472,Henrik,Tikkanen,Henrik Tikkanen,70,G,L,81,210,2000-09-28,FIN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8482472.png
 8477970,Vitek,Vanecek,Vitek Vanecek,,G,L,74,184,1996-01-09,CZE,https://assets.nhle.com/mugs/nhl/20262027/NYI/8477970.png
 8473575,Semyon,Varlamov,Semyon Varlamov,40,G,L,74,201,1988-04-27,RUS,https://assets.nhle.com/mugs/nhl/20262027/NYI/8473575.png
