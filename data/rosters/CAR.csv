@@ -15,11 +15,9 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8483496,Viktor,Neuchev,Viktor Neuchev,79,L,L,71,180,2003-10-25,RUS,https://assets.nhle.com/mugs/nhl/20262027/CAR/8483496.png
 8482785,Justin,Robidas,Justin Robidas,46,C,R,68,176,2003-03-13,USA,https://assets.nhle.com/mugs/nhl/20262027/CAR/8482785.png
 8480762,Eric,Robinson,Eric Robinson,50,L,L,74,220,1995-06-14,USA,https://assets.nhle.com/mugs/nhl/20262027/CAR/8480762.png
-8485368,Ivan,Ryabkin,Ivan Ryabkin,49,C,L,71,185,2007-04-25,RUS,https://assets.nhle.com/mugs/nhl/20262027/CAR/8485368.png
 8473533,Jordan,Staal,Jordan Staal,11,C,L,76,220,1988-09-10,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8473533.png
 8482702,Logan,Stankoven,Logan Stankoven,22,C,R,68,165,2003-02-26,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8482702.png
 8480830,Andrei,Svechnikov,Andrei Svechnikov,37,R,L,75,200,2000-03-26,RUS,https://assets.nhle.com/mugs/nhl/20262027/CAR/8480830.png
-8483519,Gleb,Trikozov,Gleb Trikozov,73,L,R,74,201,2004-08-12,RUS,https://assets.nhle.com/mugs/nhl/20262027/CAR/8483519.png
 8484392,Felix,Unger Sorum,Felix Unger Sorum,36,R,R,72,190,2005-09-14,NOR,https://assets.nhle.com/mugs/nhl/20262027/CAR/8484392.png
 8484781,Dominik,Badinka,Dominik Badinka,67,D,R,75,199,2005-11-27,CZE,https://assets.nhle.com/mugs/nhl/20262027/CAR/8484781.png
 8478970,Jalen,Chatfield,Jalen Chatfield,5,D,R,73,209,1996-05-15,USA,https://assets.nhle.com/mugs/nhl/20262027/CAR/8478970.png
@@ -29,7 +27,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8480058,Pierre-Olivier,Joseph,Pierre-Olivier Joseph,7,D,L,74,185,1999-07-01,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8480058.png
 8484428,Charles Alexis,Legault,Charles Alexis Legault,62,D,R,76,220,2003-09-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8484428.png
 8480817,K'Andre,Miller,K'Andre Miller,19,D,L,77,210,2000-01-21,USA,https://assets.nhle.com/mugs/nhl/20262027/CAR/8480817.png
-8482888,Bryce,Montgomery,Bryce Montgomery,72,D,R,76,220,2002-11-12,USA,https://assets.nhle.com/mugs/nhl/20262027/CAR/8482888.png
 8482911,Joel,Nystrom,Joel Nystrom,64,D,R,71,178,2002-05-14,SWE,https://assets.nhle.com/mugs/nhl/20262027/CAR/8482911.png
 8476422,Mike,Reilly,Mike Reilly,6,D,L,74,191,1993-07-13,USA,https://assets.nhle.com/mugs/nhl/20262027/CAR/8476422.png
 8482187,Ronan,Seeley,Ronan Seeley,91,D,L,72,201,2002-08-02,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8482187.png

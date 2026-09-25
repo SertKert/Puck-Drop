@@ -25,7 +25,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8478840,Will,Borgen,Will Borgen,17,D,R,75,199,1996-12-19,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8478840.png
 8483017,Frederic,Brunet,Frederic Brunet,42,D,L,75,200,2003-08-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8483017.png
 8477365,Connor,Clifton,Connor Clifton,75,D,R,72,196,1995-04-28,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8477365.png
-8481679,Maxence,Guenette,Maxence Guenette,38,D,R,73,210,2001-04-28,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8481679.png
 8480887,Jordan,Harris,Jordan Harris,43,D,L,72,189,2000-07-07,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8480887.png
 8480035,Henri,Jokiharju,Henri Jokiharju,20,D,R,72,205,1999-06-17,FIN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8480035.png
 8476854,Hampus,Lindholm,Hampus Lindholm,27,D,L,76,217,1994-01-20,SWE,https://assets.nhle.com/mugs/nhl/20262027/BOS/8476854.png
@@ -36,4 +35,3 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8480022,Michael,DiPietro,Michael DiPietro,30,G,L,73,205,1999-06-09,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8480022.png
 8480238,Jiri,Patera,Jiri Patera,31,G,L,75,212,1999-02-24,CZE,https://assets.nhle.com/mugs/nhl/20262027/BOS/8480238.png
 8480280,Jeremy,Swayman,Jeremy Swayman,1,G,L,75,195,1998-11-24,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8480280.png
-8485538,Simon,Zajicek,Simon Zajicek,85,G,L,73,185,2001-06-25,CZE,https://assets.nhle.com/mugs/nhl/20262027/BOS/8485538.png
