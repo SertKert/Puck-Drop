@@ -1,24 +1,19 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
-8484529,Connor,Clattenburg,Connor Clattenburg,64,C,L,74,219,2005-05-02,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8484529.png
 8482703,Colton,Dach,Colton Dach,34,C,L,75,215,2003-01-04,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8482703.png
 8477450,Jason,Dickinson,Jason Dickinson,16,C,L,74,204,1995-07-04,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8477450.png
 8477934,Leon,Draisaitl,Leon Draisaitl,29,C,L,75,215,1995-10-27,DEU,https://assets.nhle.com/mugs/nhl/20262027/EDM/8477934.png
 8480029,Alex,Formenton,Alex Formenton,26,L,L,75,193,1999-09-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8480029.png
 8479365,Trent,Frederic,Trent Frederic,10,C,L,75,218,1998-02-11,USA,https://assets.nhle.com/mugs/nhl/20262027/EDM/8479365.png
 8483455,Isaac,Howard,Isaac Howard,53,L,L,70,185,2004-03-30,USA,https://assets.nhle.com/mugs/nhl/20262027/EDM/8483455.png
-8485511,Quinn,Hutson,Quinn Hutson,23,R,R,71,179,2002-01-01,USA,https://assets.nhle.com/mugs/nhl/20262027/EDM/8485511.png
 8475786,Zach,Hyman,Zach Hyman,18,L,R,73,208,1992-06-09,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8475786.png
 8477406,Mattias,Janmark,Mattias Janmark,13,C,L,73,205,1992-12-08,SWE,https://assets.nhle.com/mugs/nhl/20262027/EDM/8477406.png
 8479368,Max,Jones,Max Jones,46,L,L,75,225,1998-02-17,USA,https://assets.nhle.com/mugs/nhl/20262027/EDM/8479368.png
 8478472,Mathieu,Joseph,Mathieu Joseph,21,R,L,73,188,1997-02-09,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8478472.png
 8477953,Kasperi,Kapanen,Kasperi Kapanen,42,R,R,73,197,1996-07-23,FIN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8477953.png
-8482759,Viljami,Marjala,Viljami Marjala,57,L,L,73,186,2003-01-29,FIN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8482759.png
 8478402,Connor,McDavid,Connor McDavid,97,C,L,74,190,1997-01-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8478402.png
 8486161,Owen,Michaels,Owen Michaels,43,R,R,73,184,2002-05-01,USA,https://assets.nhle.com/mugs/nhl/20262027/EDM/8486161.png
-8485087,William,Nicholl,William Nicholl,56,C,L,72,191,2006-05-24,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8485087.png
 8476454,Ryan,Nugent-Hopkins,Ryan Nugent-Hopkins,93,C,L,72,190,1993-04-12,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8476454.png
 8481617,Vasily,Podkolzin,Vasily Podkolzin,92,R,L,73,212,2001-06-24,RUS,https://assets.nhle.com/mugs/nhl/20262027/EDM/8481617.png
-8481699,Aku,Raty,Aku Raty,38,R,R,73,185,2001-07-05,FIN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8481699.png
 8484509,Josh,Samanski,Josh Samanski,81,C,L,74,198,2002-03-22,DEU,https://assets.nhle.com/mugs/nhl/20262027/EDM/8484509.png
 8483512,Matt,Savoie,Matt Savoie,22,C,R,69,180,2004-01-01,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8483512.png
 8483100,James,Stefan,James Stefan,70,R,R,72,189,2003-08-09,USA,https://assets.nhle.com/mugs/nhl/20262027/EDM/8483100.png
@@ -26,7 +21,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8480803,Evan,Bouchard,Evan Bouchard,2,D,R,74,196,1999-10-20,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8480803.png
 8477384,Joshua,Brown,Joshua Brown,44,D,R,78,225,1994-01-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8477384.png
 8485484,Damien,Carfagna,Damien Carfagna,73,D,L,71,190,2002-12-12,USA,https://assets.nhle.com/mugs/nhl/20262027/EDM/8485484.png
-8485163,Tomas,Cibulka,Tomas Cibulka,78,D,L,72,195,2004-04-02,CZE,https://assets.nhle.com/mugs/nhl/20262027/EDM/8485163.png
 8475218,Mattias,Ekholm,Mattias Ekholm,14,D,L,76,211,1990-05-24,SWE,https://assets.nhle.com/mugs/nhl/20262027/EDM/8475218.png
 8480834,Ty,Emberson,Ty Emberson,49,D,R,73,202,2000-05-23,USA,https://assets.nhle.com/mugs/nhl/20262027/EDM/8480834.png
 8485509,Atro,Leppanen,Atro Leppanen,37,D,L,71,189,1998-12-14,FIN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8485509.png
