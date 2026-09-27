@@ -1,10 +1,8 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8482213,Riley,Duran,Riley Duran,62,C,R,74,198,2002-01-25,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8482213.png
 8479591,Michael,Eyssimont,Michael Eyssimont,81,C,L,72,195,1996-09-09,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8479591.png
-8476867,Brendan,Gaunce,Brendan Gaunce,50,C,L,74,222,1994-03-25,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8476867.png
 8479987,Morgan,Geekie,Morgan Geekie,39,C,R,75,212,1998-07-20,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8479987.png
 8485395,James,Hagens,James Hagens,44,C,L,71,177,2006-11-03,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8485395.png
-8483531,Brian,Halonen,Brian Halonen,48,L,R,72,207,1999-01-11,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8483531.png
 8479661,Tanner,Jeannot,Tanner Jeannot,84,L,L,74,221,1997-05-29,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8479661.png
 8480355,Mark,Kastelic,Mark Kastelic,47,C,R,76,234,1999-03-11,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8480355.png
 8482177,Marat,Khusnutdinov,Marat Khusnutdinov,92,C,L,71,184,2002-07-17,RUS,https://assets.nhle.com/mugs/nhl/20262027/BOS/8482177.png
@@ -23,13 +21,10 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8478840,Will,Borgen,Will Borgen,17,D,R,75,199,1996-12-19,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8478840.png
 8483017,Frederic,Brunet,Frederic Brunet,42,D,L,75,200,2003-08-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8483017.png
 8477365,Connor,Clifton,Connor Clifton,75,D,R,72,196,1995-04-28,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8477365.png
-8480887,Jordan,Harris,Jordan Harris,43,D,L,72,189,2000-07-07,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8480887.png
 8480035,Henri,Jokiharju,Henri Jokiharju,20,D,R,72,205,1999-06-17,FIN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8480035.png
 8476854,Hampus,Lindholm,Hampus Lindholm,27,D,L,76,217,1994-01-20,SWE,https://assets.nhle.com/mugs/nhl/20262027/BOS/8476854.png
 8482511,Mason,Lohrei,Mason Lohrei,6,D,L,77,218,2001-01-17,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8482511.png
 8479325,Charlie,McAvoy,Charlie McAvoy,73,D,R,73,211,1997-12-21,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8479325.png
-8482399,Billy,Sweezey,Billy Sweezey,58,D,R,73,202,1996-02-06,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8482399.png
 8477507,Nikita,Zadorov,Nikita Zadorov,91,D,L,79,255,1995-04-16,RUS,https://assets.nhle.com/mugs/nhl/20262027/BOS/8477507.png
 8480022,Michael,DiPietro,Michael DiPietro,30,G,L,73,205,1999-06-09,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8480022.png
-8480238,Jiri,Patera,Jiri Patera,31,G,L,75,212,1999-02-24,CZE,https://assets.nhle.com/mugs/nhl/20262027/BOS/8480238.png
 8480280,Jeremy,Swayman,Jeremy Swayman,1,G,L,75,195,1998-11-24,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8480280.png

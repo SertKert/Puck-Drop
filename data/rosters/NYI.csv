@@ -11,7 +11,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8482476,Emil,Heineman,Emil Heineman,51,L,L,74,205,2001-11-16,SWE,https://assets.nhle.com/mugs/nhl/20262027/NYI/8482476.png
 8481601,Simon,Holmstrom,Simon Holmstrom,92,R,L,74,219,2001-05-24,SWE,https://assets.nhle.com/mugs/nhl/20262027/NYI/8481601.png
 8477500,Bo,Horvat,Bo Horvat,14,C,L,73,220,1995-04-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8477500.png
-8482154,Alex,Jefferies,Alex Jefferies,45,L,R,72,204,2001-11-08,USA,https://assets.nhle.com/mugs/nhl/20262027/NYI/8482154.png
 8483104,Daylan,Kuefler,Daylan Kuefler,52,L,L,74,201,2002-02-10,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8483104.png
 8479644,Matt,Luff,Matt Luff,25,R,R,75,227,1997-05-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8479644.png
 8481711,Matias,Maccelli,Matias Maccelli,63,L,L,72,184,2000-10-14,FIN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8481711.png
@@ -19,7 +18,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8476419,Jean-Gabriel,Pageau,Jean-Gabriel Pageau,44,C,R,71,181,1992-11-11,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8476419.png
 8476292,Ondrej,Palat,Ondrej Palat,81,L,L,72,194,1991-03-28,CZE,https://assets.nhle.com/mugs/nhl/20262027/NYI/8476292.png
 8475151,Kyle,Palmieri,Kyle Palmieri,21,C,R,71,195,1991-02-01,USA,https://assets.nhle.com/mugs/nhl/20262027/NYI/8475151.png
-8485448,Daniil,Prokhorov,Daniil Prokhorov,76,R,L,78,234,2007-04-27,RUS,https://assets.nhle.com/mugs/nhl/20262027/NYI/8485448.png
 8484221,Calum,Ritchie,Calum Ritchie,64,C,R,75,196,2005-01-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8484221.png
 8475170,Brayden,Schenn,Brayden Schenn,10,C,L,73,202,1991-08-22,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8475170.png
 8485352,Kashawn,Aitcheson,Kashawn Aitcheson,37,D,L,74,202,2006-09-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8485352.png
@@ -31,8 +29,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8477506,Ryan,Pulock,Ryan Pulock,6,D,R,74,221,1994-10-06,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8477506.png
 8481014,Alexander,Romanov,Alexander Romanov,28,D,L,73,207,2000-01-06,RUS,https://assets.nhle.com/mugs/nhl/20262027/NYI/8481014.png
 8485366,Matthew,Schaefer,Matthew Schaefer,48,D,L,75,193,2007-09-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8485366.png
-8481569,Marshall,Warren,Marshall Warren,41,D,L,72,203,2001-04-20,USA,https://assets.nhle.com/mugs/nhl/20262027/NYI/8481569.png
-8486136,Joshua,Kotai,Joshua Kotai,60,G,R,74,204,2003-03-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8486136.png
 8478009,Ilya,Sorokin,Ilya Sorokin,30,G,L,74,195,1995-08-04,RUS,https://assets.nhle.com/mugs/nhl/20262027/NYI/8478009.png
 8477970,Vitek,Vanecek,Vitek Vanecek,41,G,L,74,188,1996-01-09,CZE,https://assets.nhle.com/mugs/nhl/20262027/NYI/8477970.png
 8473575,Semyon,Varlamov,Semyon Varlamov,40,G,L,73,203,1988-04-27,RUS,https://assets.nhle.com/mugs/nhl/20262027/NYI/8473575.png
