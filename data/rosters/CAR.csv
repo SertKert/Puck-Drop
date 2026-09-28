@@ -1,28 +1,19 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8478427,Sebastian,Aho,Sebastian Aho,20,C,L,72,189,1997-07-26,FIN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8478427.png
 8482809,Jackson,Blake,Jackson Blake,53,R,R,71,185,2003-08-03,USA,https://assets.nhle.com/mugs/nhl/20262027/CAR/8482809.png
-8480291,Skyler,Brind'Amour,Skyler Brind'Amour,76,C,L,74,195,1999-07-27,USA,https://assets.nhle.com/mugs/nhl/20262027/CAR/8480291.png
 8477478,William,Carrier,William Carrier,28,L,L,74,214,1994-12-20,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8477478.png
 8475235,Nicolas,Deslauriers,Nicolas Deslauriers,44,L,L,73,218,1991-02-22,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8475235.png
 8477940,Nikolaj,Ehlers,Nikolaj Ehlers,27,L,L,72,168,1996-02-14,DNK,https://assets.nhle.com/mugs/nhl/20262027/CAR/8477940.png
 8475791,Taylor,Hall,Taylor Hall,71,L,L,73,210,1991-11-14,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8475791.png
-8484929,Juha,Jaaska,Juha Jaaska,54,L,L,72,210,1998-02-09,FIN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8484929.png
 8476873,Mark,Jankowski,Mark Jankowski,77,L,L,76,200,1994-09-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8476873.png
-8482093,Seth,Jarvis,Seth Jarvis,24,R,R,70,180,2002-02-01,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8482093.png
 8480829,Jesperi,Kotkaniemi,Jesperi Kotkaniemi,82,C,L,75,212,2000-07-06,FIN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8480829.png
 8476921,Jordan,Martinook,Jordan Martinook,48,L,L,73,208,1992-07-25,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8476921.png
-8484203,Bradly,Nadeau,Bradly Nadeau,29,L,R,71,180,2005-05-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8484203.png
-8482785,Justin,Robidas,Justin Robidas,46,C,R,68,176,2003-03-13,USA,https://assets.nhle.com/mugs/nhl/20262027/CAR/8482785.png
 8480762,Eric,Robinson,Eric Robinson,50,L,L,74,220,1995-06-14,USA,https://assets.nhle.com/mugs/nhl/20262027/CAR/8480762.png
 8473533,Jordan,Staal,Jordan Staal,11,C,L,76,220,1988-09-10,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8473533.png
 8482702,Logan,Stankoven,Logan Stankoven,22,C,R,68,165,2003-02-26,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8482702.png
 8480830,Andrei,Svechnikov,Andrei Svechnikov,37,R,L,75,200,2000-03-26,RUS,https://assets.nhle.com/mugs/nhl/20262027/CAR/8480830.png
-8484392,Felix,Unger Sorum,Felix Unger Sorum,36,R,R,72,190,2005-09-14,NOR,https://assets.nhle.com/mugs/nhl/20262027/CAR/8484392.png
 8478970,Jalen,Chatfield,Jalen Chatfield,5,D,R,73,209,1996-05-15,USA,https://assets.nhle.com/mugs/nhl/20262027/CAR/8478970.png
-8484998,Noel,Fransén,Noel Fransén,75,D,L,72,190,2005-12-07,SWE,https://assets.nhle.com/mugs/nhl/20262027/CAR/8484998.png
 8476906,Shayne,Gostisbehere,Shayne Gostisbehere,4,D,L,71,183,1993-04-20,USA,https://assets.nhle.com/mugs/nhl/20262027/CAR/8476906.png
-8482860,Aleksi,Heimosalmi,Aleksi Heimosalmi,47,D,R,72,181,2003-05-08,FIN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8482860.png
-8480058,Pierre-Olivier,Joseph,Pierre-Olivier Joseph,7,D,L,74,185,1999-07-01,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8480058.png
 8484428,Charles Alexis,Legault,Charles Alexis Legault,62,D,R,76,220,2003-09-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/CAR/8484428.png
 8480817,K'Andre,Miller,K'Andre Miller,19,D,L,77,210,2000-01-21,USA,https://assets.nhle.com/mugs/nhl/20262027/CAR/8480817.png
 8476422,Mike,Reilly,Mike Reilly,6,D,L,74,191,1993-07-13,USA,https://assets.nhle.com/mugs/nhl/20262027/CAR/8476422.png

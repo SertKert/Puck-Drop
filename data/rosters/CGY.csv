@@ -9,7 +9,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8476456,Jonathan,Huberdeau,Jonathan Huberdeau,10,L,L,73,200,1993-06-04,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8476456.png
 8482209,Rory,Kerins,Rory Kerins,6,C,L,70,175,2002-04-12,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8482209.png
 8483609,Adam,Klapka,Adam Klapka,43,R,R,80,235,2000-09-14,CZE,https://assets.nhle.com/mugs/nhl/20262027/CGY/8483609.png
-8479423,Alex,Nylander,Alex Nylander,93,L,R,73,205,1998-03-02,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8479423.png
 8482747,Brennan,Othmann,Brennan Othmann,78,L,L,72,192,2003-01-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8482747.png
 8481028,Martin,Pospisil,Martin Pospisil,76,C,L,74,173,1999-11-19,SVK,https://assets.nhle.com/mugs/nhl/20262027/CGY/8481028.png
 8481068,Yegor,Sharangovich,Yegor Sharangovich,17,C,L,74,196,1998-06-06,BLR,https://assets.nhle.com/mugs/nhl/20262027/CGY/8481068.png
@@ -29,4 +28,3 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8483709,Abram,Wiebe,Abram Wiebe,52,D,L,74,187,2003-08-28,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8483709.png
 8482445,Devin,Cooley,Devin Cooley,1,G,L,77,192,1997-05-25,USA,https://assets.nhle.com/mugs/nhl/20262027/CGY/8482445.png
 8481692,Dustin,Wolf,Dustin Wolf,32,G,L,72,166,2001-04-16,USA,https://assets.nhle.com/mugs/nhl/20262027/CGY/8481692.png
-8485012,Kirill,Zarubin,Kirill Zarubin,40,G,L,75,178,2005-09-20,RUS,https://assets.nhle.com/mugs/nhl/20262027/CGY/8485012.png

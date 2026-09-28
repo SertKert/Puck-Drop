@@ -1,7 +1,7 @@
 abbrev,name,placeName,commonName,conference,conferenceAbbrev,division,divisionAbbrev,logo,latitude,longitude
-BOS,Boston Bruins,Boston,Bruins,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/BOS_light.svg?season=20252026,42.3662,-71.0621
+BOS,Boston Bruins,Boston,Bruins,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/BOS_light.svg,42.3662,-71.0621
 BUF,Buffalo Sabres,Buffalo,Sabres,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/BUF_light.svg,42.875,-78.8765
-DET,Detroit Red Wings,Detroit,Red Wings,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/DET_light.svg?season=20252026,42.3411,-83.0552
+DET,Detroit Red Wings,Detroit,Red Wings,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/DET_light.svg,42.3411,-83.0552
 FLA,Florida Panthers,Florida,Panthers,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/FLA_light.svg,26.1585,-80.3255
 MTL,Montréal Canadiens,Montréal,Canadiens,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/MTL_light.svg,45.496,-73.5693
 OTT,Ottawa Senators,Ottawa,Senators,Eastern,E,Atlantic,A,https://assets.nhle.com/logos/nhl/svg/OTT_light.svg,45.2969,-75.9271
@@ -15,13 +15,13 @@ NYR,New York Rangers,NY Rangers,Rangers,Eastern,E,Metropolitan,M,https://assets.
 PHI,Philadelphia Flyers,Philadelphia,Flyers,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/PHI_light.svg,39.9012,-75.172
 PIT,Pittsburgh Penguins,Pittsburgh,Penguins,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/PIT_light.svg,40.4394,-79.9892
 WSH,Washington Capitals,Washington,Capitals,Eastern,E,Metropolitan,M,https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg,38.8981,-77.021
-CHI,Chicago Blackhawks,Chicago,Blackhawks,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026,41.8807,-87.6742
+CHI,Chicago Blackhawks,Chicago,Blackhawks,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/CHI_light.svg,41.8807,-87.6742
 COL,Colorado Avalanche,Colorado,Avalanche,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/COL_light.svg,39.7486,-105.0077
 DAL,Dallas Stars,Dallas,Stars,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/DAL_light.svg,32.7906,-96.8103
 MIN,Minnesota Wild,Minnesota,Wild,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/MIN_light.svg,44.9447,-93.1011
 NSH,Nashville Predators,Nashville,Predators,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/NSH_light.svg,36.1592,-86.7785
-STL,St. Louis Blues,St. Louis,Blues,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026,38.6267,-90.2027
-UTA,Utah Mammoth,Utah,Mammoth,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/UTA_light.svg?season=20252026,40.7683,-111.9011
+STL,St. Louis Blues,St. Louis,Blues,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/STL_light.svg,38.6267,-90.2027
+UTA,Utah Mammoth,Utah,Mammoth,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/UTA_light.svg,40.7683,-111.9011
 WPG,Winnipeg Jets,Winnipeg,Jets,Western,W,Central,C,https://assets.nhle.com/logos/nhl/svg/WPG_light.svg,49.8928,-97.1436
 ANA,Anaheim Ducks,Anaheim,Ducks,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/ANA_light.svg,33.8078,-117.8767
 CGY,Calgary Flames,Calgary,Flames,Western,W,Pacific,P,https://assets.nhle.com/logos/nhl/svg/CGY_light.svg,51.0375,-114.0519

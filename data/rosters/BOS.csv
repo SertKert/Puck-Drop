@@ -1,5 +1,4 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
-8482213,Riley,Duran,Riley Duran,62,C,R,74,198,2002-01-25,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8482213.png
 8479591,Michael,Eyssimont,Michael Eyssimont,81,C,L,72,195,1996-09-09,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8479591.png
 8479987,Morgan,Geekie,Morgan Geekie,39,C,R,75,212,1998-07-20,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8479987.png
 8485395,James,Hagens,James Hagens,44,C,L,71,177,2006-11-03,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8485395.png
@@ -8,14 +7,10 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8482177,Marat,Khusnutdinov,Marat Khusnutdinov,92,C,L,71,184,2002-07-17,RUS,https://assets.nhle.com/mugs/nhl/20262027/BOS/8482177.png
 8476374,Sean,Kuraly,Sean Kuraly,52,C,L,74,208,1993-01-20,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8476374.png
 8477496,Elias,Lindholm,Elias Lindholm,28,C,R,73,200,1994-12-02,SWE,https://assets.nhle.com/mugs/nhl/20262027/BOS/8477496.png
-8483704,Dans,Locmelis,Dans Locmelis,56,C,L,72,179,2004-01-21,LVA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8483704.png
 8483489,Fraser,Minten,Fraser Minten,93,C,L,74,204,2004-07-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8483489.png
 8479999,Casey,Mittelstadt,Casey Mittelstadt,11,C,L,73,205,1998-11-22,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8479999.png
 8477956,David,Pastrnak,David Pastrnak,88,R,R,72,199,1996-05-25,CZE,https://assets.nhle.com/mugs/nhl/20262027/BOS/8477956.png
 8482175,JJ,Peterka,JJ Peterka,10,R,L,72,189,2002-01-14,DEU,https://assets.nhle.com/mugs/nhl/20262027/BOS/8482175.png
-8483505,Matthew,Poitras,Matthew Poitras,51,C,R,72,189,2004-03-10,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8483505.png
-8482117,Lukas,Reichel,Lukas Reichel,76,L,L,72,170,2002-05-17,DEU,https://assets.nhle.com/mugs/nhl/20262027/BOS/8482117.png
-8482634,Alex,Steeves,Alex Steeves,21,C,L,72,199,1999-12-10,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8482634.png
 8478401,Pavel,Zacha,Pavel Zacha,18,C,L,76,211,1997-04-06,CZE,https://assets.nhle.com/mugs/nhl/20262027/BOS/8478401.png
 8481219,Jonathan,Aspirot,Jonathan Aspirot,45,D,L,72,212,1999-05-16,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8481219.png
 8478840,Will,Borgen,Will Borgen,17,D,R,75,199,1996-12-19,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8478840.png

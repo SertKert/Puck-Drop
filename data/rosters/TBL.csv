@@ -1,7 +1,6 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8481720,Nick,Abruzzese,Nick Abruzzese,80,C,L,70,177,1999-06-04,USA,https://assets.nhle.com/mugs/nhl/20262027/TBL/8481720.png
 8478519,Anthony,Cirelli,Anthony Cirelli,71,C,L,73,190,1997-07-15,CAN,https://assets.nhle.com/mugs/nhl/20262027/TBL/8478519.png
-8482663,Dylan,Duke,Dylan Duke,53,L,L,70,183,2003-03-04,USA,https://assets.nhle.com/mugs/nhl/20262027/TBL/8482663.png
 8483447,Conor,Geekie,Conor Geekie,94,C,L,77,220,2004-05-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/TBL/8483447.png
 8476878,Zemgus,Girgensons,Zemgus Girgensons,28,C,L,75,200,1994-01-05,LVA,https://assets.nhle.com/mugs/nhl/20262027/TBL/8476878.png
 8482201,Gage,Goncalves,Gage Goncalves,93,C,L,74,193,2001-01-16,CAN,https://assets.nhle.com/mugs/nhl/20262027/TBL/8482201.png
@@ -12,14 +11,11 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8480995,Pontus,Holmberg,Pontus Holmberg,29,R,L,72,198,1999-03-09,SWE,https://assets.nhle.com/mugs/nhl/20262027/TBL/8480995.png
 8483752,Dominic,James,Dominic James,17,C,L,72,190,2002-07-03,USA,https://assets.nhle.com/mugs/nhl/20262027/TBL/8483752.png
 8476453,Nikita,Kucherov,Nikita Kucherov,86,R,L,71,172,1993-06-17,RUS,https://assets.nhle.com/mugs/nhl/20262027/TBL/8476453.png
-8482518,Lucas,Mercuri,Lucas Mercuri,75,C,R,75,227,2002-03-07,CAN,https://assets.nhle.com/mugs/nhl/20262027/TBL/8482518.png
 8481624,Ilya,Mikheyev,Ilya Mikheyev,95,R,L,74,200,1994-10-10,RUS,https://assets.nhle.com/mugs/nhl/20262027/TBL/8481624.png
-8484770,Sam,O'Reilly,Sam O'Reilly,23,R,R,74,198,2006-03-30,CAN,https://assets.nhle.com/mugs/nhl/20262027/TBL/8484770.png
 8481592,Jakob,Pelletier,Jakob Pelletier,22,L,L,70,173,2001-03-07,CAN,https://assets.nhle.com/mugs/nhl/20262027/TBL/8481592.png
 8478010,Brayden,Point,Brayden Point,21,C,R,71,174,1996-03-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/TBL/8478010.png
 8485587,Benjamin,Rautiainen,Benjamin Rautiainen,41,C,L,72,187,2005-06-12,FIN,https://assets.nhle.com/mugs/nhl/20262027/TBL/8485587.png
 8477149,Scott,Sabourin,Scott Sabourin,49,R,R,75,210,1992-07-30,CAN,https://assets.nhle.com/mugs/nhl/20262027/TBL/8477149.png
-8485091,Noah,Steen,Noah Steen,67,L,L,73,197,2004-08-16,NOR,https://assets.nhle.com/mugs/nhl/20262027/TBL/8485091.png
 8479705,Jeffrey,Viel,Jeffrey Viel,25,L,L,72,218,1997-01-28,CAN,https://assets.nhle.com/mugs/nhl/20262027/TBL/8479705.png
 8480828,Michael,Callahan,Michael Callahan,79,D,L,74,202,1999-09-23,USA,https://assets.nhle.com/mugs/nhl/20262027/TBL/8480828.png
 8474590,John,Carlson,John Carlson,74,D,R,75,225,1990-01-10,USA,https://assets.nhle.com/mugs/nhl/20262027/TBL/8474590.png

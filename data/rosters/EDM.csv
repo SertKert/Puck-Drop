@@ -1,6 +1,5 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8482703,Colton,Dach,Colton Dach,34,C,L,75,215,2003-01-04,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8482703.png
-8477450,Jason,Dickinson,Jason Dickinson,16,C,L,74,204,1995-07-04,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8477450.png
 8477934,Leon,Draisaitl,Leon Draisaitl,29,C,L,75,215,1995-10-27,DEU,https://assets.nhle.com/mugs/nhl/20262027/EDM/8477934.png
 8480029,Alex,Formenton,Alex Formenton,26,L,L,75,193,1999-09-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8480029.png
 8479365,Trent,Frederic,Trent Frederic,10,C,L,75,218,1998-02-11,USA,https://assets.nhle.com/mugs/nhl/20262027/EDM/8479365.png
@@ -14,10 +13,8 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8486161,Owen,Michaels,Owen Michaels,43,R,R,73,184,2002-05-01,USA,https://assets.nhle.com/mugs/nhl/20262027/EDM/8486161.png
 8476454,Ryan,Nugent-Hopkins,Ryan Nugent-Hopkins,93,C,L,72,190,1993-04-12,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8476454.png
 8481617,Vasily,Podkolzin,Vasily Podkolzin,92,R,L,73,212,2001-06-24,RUS,https://assets.nhle.com/mugs/nhl/20262027/EDM/8481617.png
-8484509,Josh,Samanski,Josh Samanski,81,C,L,74,198,2002-03-22,DEU,https://assets.nhle.com/mugs/nhl/20262027/EDM/8484509.png
 8483512,Matt,Savoie,Matt Savoie,22,C,R,69,180,2004-01-01,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8483512.png
 8480803,Evan,Bouchard,Evan Bouchard,2,D,R,74,196,1999-10-20,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8480803.png
-8485484,Damien,Carfagna,Damien Carfagna,73,D,L,71,190,2002-12-12,USA,https://assets.nhle.com/mugs/nhl/20262027/EDM/8485484.png
 8475218,Mattias,Ekholm,Mattias Ekholm,14,D,L,76,211,1990-05-24,SWE,https://assets.nhle.com/mugs/nhl/20262027/EDM/8475218.png
 8480834,Ty,Emberson,Ty Emberson,49,D,R,73,202,2000-05-23,USA,https://assets.nhle.com/mugs/nhl/20262027/EDM/8480834.png
 8482166,Shakir,Mukhamadullin,Shakir Mukhamadullin,85,D,L,77,205,2002-01-10,RUS,https://assets.nhle.com/mugs/nhl/20262027/EDM/8482166.png
@@ -29,4 +26,3 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8475883,Frederik,Andersen,Frederik Andersen,30,G,L,76,229,1989-10-02,DNK,https://assets.nhle.com/mugs/nhl/20262027/EDM/8475883.png
 8477465,Tristan,Jarry,Tristan Jarry,35,G,L,73,201,1995-04-29,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8477465.png
 8482221,Devon,Levi,Devon Levi,27,G,L,72,187,2001-12-27,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8482221.png
-8477035,Matt,Tomkins,Matt Tomkins,90,G,L,76,198,1994-06-19,CAN,https://assets.nhle.com/mugs/nhl/20262027/EDM/8477035.png
