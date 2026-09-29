@@ -3,12 +3,15 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8482475,Egor,Chinakhov,Egor Chinakhov,59,R,L,73,206,2001-02-01,RUS,https://assets.nhle.com/mugs/nhl/20262027/PIT/8482475.png
 8471675,Sidney,Crosby,Sidney Crosby,87,C,L,71,206,1987-08-07,CAN,https://assets.nhle.com/mugs/nhl/20262027/PIT/8471675.png
 8480980,Connor,Dewar,Connor Dewar,19,C,L,70,187,1999-06-26,CAN,https://assets.nhle.com/mugs/nhl/20262027/PIT/8480980.png
+8481019,David,Gustafsson,David Gustafsson,13,C,L,75,210,2000-04-11,SWE,https://assets.nhle.com/mugs/nhl/20262027/PIT/8481019.png
+8480842,Filip,Hallander,Filip Hallander,11,C,L,74,207,2000-06-29,SWE,https://assets.nhle.com/mugs/nhl/20262027/PIT/8480842.png
 8485414,Ben,Kindel,Ben Kindel,81,C,R,71,183,2007-04-19,CAN,https://assets.nhle.com/mugs/nhl/20262027/PIT/8485414.png
 8482758,Ville,Koivunen,Ville Koivunen,41,R,L,72,186,2003-06-13,FIN,https://assets.nhle.com/mugs/nhl/20262027/PIT/8482758.png
 8483808,Andrei,Kuzmenko,Andrei Kuzmenko,62,L,R,72,186,1996-02-04,RUS,https://assets.nhle.com/mugs/nhl/20262027/PIT/8483808.png
 8482148,Hendrix,Lapierre,Hendrix Lapierre,22,C,L,72,191,2002-02-09,CAN,https://assets.nhle.com/mugs/nhl/20262027/PIT/8482148.png
 8481481,Blake,Lizotte,Blake Lizotte,46,C,L,69,176,1997-12-13,USA,https://assets.nhle.com/mugs/nhl/20262027/PIT/8481481.png
 8471215,Evgeni,Malkin,Evgeni Malkin,71,C,L,77,211,1986-07-31,RUS,https://assets.nhle.com/mugs/nhl/20262027/PIT/8471215.png
+8483487,Rutger,McGroarty,Rutger McGroarty,2,R,L,74,212,2004-03-30,USA,https://assets.nhle.com/mugs/nhl/20262027/PIT/8483487.png
 8478438,Tommy,Novak,Tommy Novak,18,C,L,73,188,1997-04-28,USA,https://assets.nhle.com/mugs/nhl/20262027/PIT/8478438.png
 8476483,Rickard,Rakell,Rickard Rakell,67,R,R,73,190,1993-05-05,SWE,https://assets.nhle.com/mugs/nhl/20262027/PIT/8476483.png
 8481582,Nick,Robertson,Nick Robertson,14,L,L,69,180,2001-09-11,USA,https://assets.nhle.com/mugs/nhl/20262027/PIT/8481582.png
@@ -19,6 +22,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8474578,Erik,Karlsson,Erik Karlsson,65,D,R,72,185,1990-05-31,SWE,https://assets.nhle.com/mugs/nhl/20262027/PIT/8474578.png
 8481527,Kaedan,Korczak,Kaedan Korczak,6,D,R,75,206,2001-01-29,CAN,https://assets.nhle.com/mugs/nhl/20262027/PIT/8481527.png
 8471724,Kris,Letang,Kris Letang,58,D,R,72,199,1987-04-24,CAN,https://assets.nhle.com/mugs/nhl/20262027/PIT/8471724.png
+8482470,Ilya,Solovyov,Ilya Solovyov,7,D,L,75,229,2000-07-20,BLR,https://assets.nhle.com/mugs/nhl/20262027/PIT/8482470.png
 8477845,Trevor,van Riemsdyk,Trevor van Riemsdyk,57,D,R,75,209,1991-07-24,USA,https://assets.nhle.com/mugs/nhl/20262027/PIT/8477845.png
 8483703,Sergei,Murashov,Sergei Murashov,1,G,R,74,186,2004-04-01,RUS,https://assets.nhle.com/mugs/nhl/20262027/PIT/8483703.png
 8481668,Arturs,Silovs,Arturs Silovs,37,G,L,76,219,2001-03-22,LVA,https://assets.nhle.com/mugs/nhl/20262027/PIT/8481668.png

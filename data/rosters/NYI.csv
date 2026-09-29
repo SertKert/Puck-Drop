@@ -2,7 +2,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8482070,Mitchell,Chaffee,Mitchell Chaffee,26,R,R,72,197,1998-01-26,USA,https://assets.nhle.com/mugs/nhl/20262027/NYI/8482070.png
 8475231,Casey,Cizikas,Casey Cizikas,53,C,L,71,190,1991-02-27,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8475231.png
 8477407,Anthony,Duclair,Anthony Duclair,11,L,L,72,192,1995-08-26,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8477407.png
-8485388,Victor,Eklund,Victor Eklund,73,R,R,71,175,2006-10-03,SWE,https://assets.nhle.com/mugs/nhl/20262027/NYI/8485388.png
+8485388,Victor,Eklund,Victor Eklund,38,R,R,71,175,2006-10-03,SWE,https://assets.nhle.com/mugs/nhl/20262027/NYI/8485388.png
 8482476,Emil,Heineman,Emil Heineman,51,L,L,74,205,2001-11-16,SWE,https://assets.nhle.com/mugs/nhl/20262027/NYI/8482476.png
 8481601,Simon,Holmstrom,Simon Holmstrom,92,R,L,74,219,2001-05-24,SWE,https://assets.nhle.com/mugs/nhl/20262027/NYI/8481601.png
 8477500,Bo,Horvat,Bo Horvat,14,C,L,73,220,1995-04-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8477500.png
@@ -20,7 +20,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8477506,Ryan,Pulock,Ryan Pulock,6,D,R,74,221,1994-10-06,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8477506.png
 8481014,Alexander,Romanov,Alexander Romanov,28,D,L,73,207,2000-01-06,RUS,https://assets.nhle.com/mugs/nhl/20262027/NYI/8481014.png
 8485366,Matthew,Schaefer,Matthew Schaefer,48,D,L,75,193,2007-09-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8485366.png
-8479378,Logan,Stanley,Logan Stanley,,D,L,79,231,1998-05-26,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8479378.png
+8479378,Logan,Stanley,Logan Stanley,8,D,L,79,231,1998-05-26,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8479378.png
 8478009,Ilya,Sorokin,Ilya Sorokin,30,G,L,74,195,1995-08-04,RUS,https://assets.nhle.com/mugs/nhl/20262027/NYI/8478009.png
-8477970,Vitek,Vanecek,Vitek Vanecek,41,G,L,74,188,1996-01-09,CZE,https://assets.nhle.com/mugs/nhl/20262027/NYI/8477970.png
 8473575,Semyon,Varlamov,Semyon Varlamov,40,G,L,73,203,1988-04-27,RUS,https://assets.nhle.com/mugs/nhl/20262027/NYI/8473575.png
