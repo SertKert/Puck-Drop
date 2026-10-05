@@ -8,6 +8,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8477021,Alexander,Kerfoot,Alexander Kerfoot,14,C,L,71,185,1994-08-11,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8477021.png
 8476539,Jonathan,Marchessault,Jonathan Marchessault,81,C,R,69,185,1990-12-27,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8476539.png
 8475158,Ryan,O'Reilly,Ryan O'Reilly,90,C,L,73,207,1991-02-07,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8475158.png
+8486189,Vitali,Pinchuk,Vitali Pinchuk,51,C,L,75,203,2002-01-11,BLR,https://assets.nhle.com/mugs/nhl/20262027/NSH/8486189.png
 8483513,Reid,Schaefer,Reid Schaefer,49,L,L,77,226,2003-09-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8483513.png
 8474564,Steven,Stamkos,Steven Stamkos,91,C,R,73,193,1990-02-07,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8474564.png
 8484241,Matthew,Wood,Matthew Wood,71,R,R,76,202,2005-02-06,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8484241.png
@@ -20,5 +21,4 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8482806,William,Trudeau,William Trudeau,85,D,L,71,200,2002-10-11,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8482806.png
 8482482,Adam,Wilsby,Adam Wilsby,2,D,L,73,188,2000-08-07,SWE,https://assets.nhle.com/mugs/nhl/20262027/NSH/8482482.png
 8481020,Justus,Annunen,Justus Annunen,29,G,L,76,210,2000-03-11,FIN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8481020.png
-8483575,Matt,Murray,Matt Murray,32,G,L,73,196,1998-02-02,CAN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8483575.png
 8477424,Juuse,Saros,Juuse Saros,74,G,L,71,180,1995-04-19,FIN,https://assets.nhle.com/mugs/nhl/20262027/NSH/8477424.png
