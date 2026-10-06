@@ -1,5 +1,4 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
-8479591,Michael,Eyssimont,Michael Eyssimont,81,C,L,72,196,1996-09-09,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8479591.png
 8479987,Morgan,Geekie,Morgan Geekie,39,C,R,75,212,1998-07-20,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8479987.png
 8485395,James,Hagens,James Hagens,44,C,L,71,186,2006-11-03,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8485395.png
 8479661,Tanner,Jeannot,Tanner Jeannot,84,L,L,74,222,1997-05-29,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8479661.png
@@ -11,6 +10,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8479999,Casey,Mittelstadt,Casey Mittelstadt,11,C,L,73,202,1998-11-22,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8479999.png
 8477956,David,Pastrnak,David Pastrnak,88,R,R,72,199,1996-05-25,CZE,https://assets.nhle.com/mugs/nhl/20262027/BOS/8477956.png
 8482175,JJ,Peterka,JJ Peterka,10,R,L,72,184,2002-01-14,DEU,https://assets.nhle.com/mugs/nhl/20262027/BOS/8482175.png
+8483505,Matthew,Poitras,Matthew Poitras,51,C,R,72,189,2004-03-10,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8483505.png
 8478401,Pavel,Zacha,Pavel Zacha,18,C,L,76,212,1997-04-06,CZE,https://assets.nhle.com/mugs/nhl/20262027/BOS/8478401.png
 8481219,Jonathan,Aspirot,Jonathan Aspirot,45,D,L,72,216,1999-05-16,CAN,https://assets.nhle.com/mugs/nhl/20262027/BOS/8481219.png
 8478840,Will,Borgen,Will Borgen,17,D,R,75,200,1996-12-19,USA,https://assets.nhle.com/mugs/nhl/20262027/BOS/8478840.png
