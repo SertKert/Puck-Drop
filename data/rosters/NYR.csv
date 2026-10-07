@@ -1,4 +1,5 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
+8484786,Cole,Beaudoin,Cole Beaudoin,53,C,L,74,212,2006-04-24,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYR/8484786.png
 8477416,Oliver,Bjorkstrand,Oliver Bjorkstrand,28,R,R,72,176,1995-04-10,DNK,https://assets.nhle.com/mugs/nhl/20262027/NYR/8477416.png
 8482877,Jaroslav,Chmelar,Jaroslav Chmelar,49,R,R,77,238,2003-07-20,CZE,https://assets.nhle.com/mugs/nhl/20262027/NYR/8482877.png
 8482157,Will,Cuylle,Will Cuylle,50,L,L,75,216,2002-02-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYR/8482157.png
@@ -19,7 +20,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8482861,Vincent,Iorio,Vincent Iorio,6,D,R,76,208,2002-11-14,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYR/8482861.png
 8482666,Scott,Morrow,Scott Morrow,60,D,R,74,211,2002-11-01,USA,https://assets.nhle.com/mugs/nhl/20262027/NYR/8482666.png
 8477969,Marcus,Pettersson,Marcus Pettersson,26,D,L,76,179,1996-05-08,SWE,https://assets.nhle.com/mugs/nhl/20262027/NYR/8477969.png
-8481525,Matthew,Robertson,Matthew Robertson,29,D,L,76,218,2001-03-09,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYR/8481525.png
 8482073,Braden,Schneider,Braden Schneider,4,D,R,75,214,2001-09-20,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYR/8482073.png
 8485957,Alberts,Smits,Alberts Smits,12,D,L,75,208,2007-12-02,LVA,https://assets.nhle.com/mugs/nhl/20262027/NYR/8485957.png
 8482193,Dylan,Garand,Dylan Garand,33,G,L,73,182,2002-06-07,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYR/8482193.png
