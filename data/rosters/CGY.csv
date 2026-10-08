@@ -1,5 +1,6 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8474150,Mikael,Backlund,Mikael Backlund,11,C,L,72,206,1989-03-17,SWE,https://assets.nhle.com/mugs/nhl/20262027/CGY/8474150.png
+8484154,Jonathan,Castagna,Jonathan Castagna,38,C,L,73,183,2005-04-20,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8484154.png
 8482679,Matt,Coronato,Matt Coronato,27,R,R,70,183,2002-11-14,USA,https://assets.nhle.com/mugs/nhl/20262027/CGY/8482679.png
 8480797,Joel,Farabee,Joel Farabee,86,L,L,72,186,2000-02-25,USA,https://assets.nhle.com/mugs/nhl/20262027/CGY/8480797.png
 8480028,Morgan,Frost,Morgan Frost,16,C,L,72,193,1999-05-14,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8480028.png
@@ -11,6 +12,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8481028,Martin,Pospisil,Martin Pospisil,76,C,L,74,173,1999-11-19,SVK,https://assets.nhle.com/mugs/nhl/20262027/CGY/8481028.png
 8481068,Yegor,Sharangovich,Yegor Sharangovich,17,C,L,74,196,1998-06-06,BLR,https://assets.nhle.com/mugs/nhl/20262027/CGY/8481068.png
 8476458,Ryan,Strome,Ryan Strome,22,C,R,73,192,1993-07-11,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8476458.png
+8484234,Aydar,Suniev,Aydar Suniev,61,L,L,74,198,2004-11-16,RUS,https://assets.nhle.com/mugs/nhl/20262027/CGY/8484234.png
 8484958,Maxim,Tsyplakov,Maxim Tsyplakov,72,R,L,75,203,1998-09-19,RUS,https://assets.nhle.com/mugs/nhl/20262027/CGY/8484958.png
 8480860,Kevin,Bahl,Kevin Bahl,7,D,L,78,230,2000-06-27,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8480860.png
 8477810,Joel,Hanley,Joel Hanley,44,D,L,71,186,1991-06-08,CAN,https://assets.nhle.com/mugs/nhl/20262027/CGY/8477810.png
