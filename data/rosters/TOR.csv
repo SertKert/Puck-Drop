@@ -3,6 +3,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8484158,Easton,Cowan,Easton Cowan,53,R,L,72,189,2005-05-20,CAN,https://assets.nhle.com/mugs/nhl/20262027/TOR/8484158.png
 8479520,Brandon,Duhaime,Brandon Duhaime,24,L,L,74,213,1997-05-22,USA,https://assets.nhle.com/mugs/nhl/20262027/TOR/8479520.png
 8480870,Bo,Groulx,Bo Groulx,29,C,L,74,202,2000-02-06,FRA,https://assets.nhle.com/mugs/nhl/20262027/TOR/8480870.png
+8479968,Vinni,Lettieri,Vinni Lettieri,71,C,R,70,184,1995-02-06,USA,https://assets.nhle.com/mugs/nhl/20262027/TOR/8479968.png
 8479772,Zack,MacEwen,Zack MacEwen,19,R,R,76,226,1996-07-08,CAN,https://assets.nhle.com/mugs/nhl/20262027/TOR/8479772.png
 8480893,Kirill,Marchenko,Kirill Marchenko,86,R,R,75,201,2000-07-21,RUS,https://assets.nhle.com/mugs/nhl/20262027/TOR/8480893.png
 8479318,Auston,Matthews,Auston Matthews,34,C,L,75,214,1997-09-17,USA,https://assets.nhle.com/mugs/nhl/20262027/TOR/8479318.png
@@ -21,5 +22,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8483546,Marshall,Rifai,Marshall Rifai,83,D,L,74,211,1998-03-16,CAN,https://assets.nhle.com/mugs/nhl/20262027/TOR/8483546.png
 8479442,Troy,Stecher,Troy Stecher,28,D,R,71,184,1994-04-07,CAN,https://assets.nhle.com/mugs/nhl/20262027/TOR/8479442.png
 8475690,Chris,Tanev,Chris Tanev,8,D,R,75,199,1989-12-20,CAN,https://assets.nhle.com/mugs/nhl/20262027/TOR/8475690.png
+8482515,Artur,Akhtyamov,Artur Akhtyamov,70,G,L,74,176,2001-10-31,RUS,https://assets.nhle.com/mugs/nhl/20262027/TOR/8482515.png
 8475683,Sergei,Bobrovsky,Sergei Bobrovsky,72,G,L,74,187,1988-09-20,RUS,https://assets.nhle.com/mugs/nhl/20262027/TOR/8475683.png
 8476932,Anthony,Stolarz,Anthony Stolarz,41,G,L,78,248,1994-01-20,USA,https://assets.nhle.com/mugs/nhl/20262027/TOR/8476932.png
