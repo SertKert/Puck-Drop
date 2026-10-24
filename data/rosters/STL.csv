@@ -1,7 +1,6 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8481013,Jonatan,Berggren,Jonatan Berggren,29,R,L,71,198,2000-07-16,SWE,https://assets.nhle.com/mugs/nhl/20262027/STL/8481013.png
 8477402,Pavel,Buchnevich,Pavel Buchnevich,89,L,L,74,202,1995-04-17,RUS,https://assets.nhle.com/mugs/nhl/20262027/STL/8477402.png
-8482784,Zach,Dean,Zach Dean,52,C,L,72,187,2003-01-04,CAN,https://assets.nhle.com/mugs/nhl/20262027/STL/8482784.png
 8479346,Dillon,Dube,Dillon Dube,65,C,L,71,185,1998-07-20,CAN,https://assets.nhle.com/mugs/nhl/20262027/STL/8479346.png
 8484164,Dalibor,Dvorsky,Dalibor Dvorsky,15,R,L,73,207,2005-06-15,SVK,https://assets.nhle.com/mugs/nhl/20262027/STL/8484164.png
 8482077,Dylan,Holloway,Dylan Holloway,81,L,L,73,207,2001-09-23,CAN,https://assets.nhle.com/mugs/nhl/20262027/STL/8482077.png
@@ -17,6 +16,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8480281,Alexey,Toropchenko,Alexey Toropchenko,13,R,L,78,227,1999-06-25,RUS,https://assets.nhle.com/mugs/nhl/20262027/STL/8480281.png
 8482111,Justin,Barron,Justin Barron,72,D,R,74,198,2001-11-15,CAN,https://assets.nhle.com/mugs/nhl/20262027/STL/8482111.png
 8481598,Philip,Broberg,Philip Broberg,6,D,L,75,210,2001-06-25,SWE,https://assets.nhle.com/mugs/nhl/20262027/STL/8481598.png
+8484151,Quinton,Burns,Quinton Burns,42,D,L,74,194,2005-04-14,CAN,https://assets.nhle.com/mugs/nhl/20262027/STL/8484151.png
 8478443,Brandon,Carlo,Brandon Carlo,25,D,R,77,214,1996-11-26,USA,https://assets.nhle.com/mugs/nhl/20262027/STL/8478443.png
 8475764,Cam,Fowler,Cam Fowler,17,D,L,74,205,1991-12-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/STL/8475764.png
 8484790,Adam,Jiricek,Adam Jiricek,36,D,R,75,185,2006-06-28,CZE,https://assets.nhle.com/mugs/nhl/20262027/STL/8484790.png
