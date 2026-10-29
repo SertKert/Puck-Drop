@@ -1,4 +1,5 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
+8483428,Filip,Bystedt,Filip Bystedt,18,C,L,75,210,2004-02-04,SWE,https://assets.nhle.com/mugs/nhl/20262027/SJS/8483428.png
 8484801,Macklin,Celebrini,Macklin Celebrini,71,C,L,72,190,2006-06-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8484801.png
 8484994,Igor,Chernyshov,Igor Chernyshov,92,L,R,75,195,2005-11-30,RUS,https://assets.nhle.com/mugs/nhl/20262027/SJS/8484994.png
 8480848,Ty,Dellandrea,Ty Dellandrea,10,C,R,74,190,2000-07-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8480848.png
@@ -14,8 +15,8 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8475726,Tyler,Toffoli,Tyler Toffoli,73,C,R,72,205,1992-04-24,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8475726.png
 8477505,Alexander,Wennberg,Alexander Wennberg,21,C,L,74,190,1994-09-22,SWE,https://assets.nhle.com/mugs/nhl/20262027/SJS/8477505.png
 8482700,Nolan,Allan,Nolan Allan,5,D,L,74,195,2003-04-28,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8482700.png
-8484152,Luca,Cagnoni,Luca Cagnoni,42,D,L,69,180,2004-12-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8484152.png
 8484806,Sam,Dickinson,Sam Dickinson,6,D,L,75,200,2006-06-07,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8484806.png
+8479333,Libor,Hajek,Libor Hajek,24,D,L,75,210,1998-02-04,CZE,https://assets.nhle.com/mugs/nhl/20262027/SJS/8479333.png
 8480891,Michael,Kesselring,Michael Kesselring,7,D,R,77,215,2000-01-13,USA,https://assets.nhle.com/mugs/nhl/20262027/SJS/8480891.png
 8477498,Darnell,Nurse,Darnell Nurse,25,D,L,76,215,1995-02-04,CAN,https://assets.nhle.com/mugs/nhl/20262027/SJS/8477498.png
 8475200,Dmitry,Orlov,Dmitry Orlov,9,D,L,71,215,1991-07-23,RUS,https://assets.nhle.com/mugs/nhl/20262027/SJS/8475200.png
