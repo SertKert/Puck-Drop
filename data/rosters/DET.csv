@@ -6,10 +6,10 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8477429,Andrew,Copp,Andrew Copp,18,C,L,73,200,1994-07-08,USA,https://assets.nhle.com/mugs/nhl/20262027/DET/8477429.png
 8484160,Nate,Danielson,Nate Danielson,29,C,R,74,196,2004-09-27,CAN,https://assets.nhle.com/mugs/nhl/20262027/DET/8484160.png
 8479337,Alex,DeBrincat,Alex DeBrincat,93,R,R,68,177,1997-12-18,USA,https://assets.nhle.com/mugs/nhl/20262027/DET/8479337.png
+8480326,Sheldon,Dries,Sheldon Dries,15,C,L,70,184,1994-04-23,USA,https://assets.nhle.com/mugs/nhl/20262027/DET/8480326.png
 8484471,Emmitt,Finnie,Emmitt Finnie,58,C,L,74,196,2005-06-27,CAN,https://assets.nhle.com/mugs/nhl/20262027/DET/8484471.png
 8483464,Marco,Kasper,Marco Kasper,92,C,L,73,203,2004-04-08,AUT,https://assets.nhle.com/mugs/nhl/20262027/DET/8483464.png
 8478434,Keegan,Kolesar,Keegan Kolesar,55,R,R,74,218,1997-04-08,CAN,https://assets.nhle.com/mugs/nhl/20262027/DET/8478434.png
-8477946,Dylan,Larkin,Dylan Larkin,71,C,L,73,198,1996-07-30,USA,https://assets.nhle.com/mugs/nhl/20262027/DET/8477946.png
 8482802,Carter,Mazur,Carter Mazur,34,L,R,73,200,2002-03-28,USA,https://assets.nhle.com/mugs/nhl/20262027/DET/8482802.png
 8479992,Michael,Rasmussen,Michael Rasmussen,27,C,L,78,220,1999-04-17,CAN,https://assets.nhle.com/mugs/nhl/20262027/DET/8479992.png
 8482078,Lucas,Raymond,Lucas Raymond,23,L,R,71,188,2002-03-28,SWE,https://assets.nhle.com/mugs/nhl/20262027/DET/8482078.png
@@ -22,5 +22,4 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8481542,Moritz,Seider,Moritz Seider,53,D,R,76,211,2001-04-06,DEU,https://assets.nhle.com/mugs/nhl/20262027/DET/8481542.png
 8482171,William,Wallinder,William Wallinder,54,D,L,77,210,2002-07-28,SWE,https://assets.nhle.com/mugs/nhl/20262027/DET/8482171.png
 8476434,John,Gibson,John Gibson,36,G,L,75,209,1993-07-14,USA,https://assets.nhle.com/mugs/nhl/20262027/DET/8476434.png
-8485545,Michal,Postava,Michal Postava,35,G,L,73,222,2002-02-28,CZE,https://assets.nhle.com/mugs/nhl/20262027/DET/8485545.png
 8480193,Daniil,Tarasov,Daniil Tarasov,80,G,L,77,204,1999-03-27,RUS,https://assets.nhle.com/mugs/nhl/20262027/DET/8480193.png
