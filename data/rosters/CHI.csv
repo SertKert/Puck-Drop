@@ -1,6 +1,7 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8484144,Connor,Bedard,Connor Bedard,98,C,R,70,190,2005-07-17,CAN,https://assets.nhle.com/mugs/nhl/20262027/CHI/8484144.png
 8477479,Tyler,Bertuzzi,Tyler Bertuzzi,59,L,L,74,200,1995-02-24,CAN,https://assets.nhle.com/mugs/nhl/20262027/CHI/8477479.png
+8485554,Dillon,Boucher,Dillon Boucher,,L,L,72,220,1997-04-16,CAN,https://assets.nhle.com/mugs/nhl/20262027/CHI/8485554.png
 8477987,Ryan,Donato,Ryan Donato,8,C,L,72,190,1996-04-09,USA,https://assets.nhle.com/mugs/nhl/20262027/CHI/8477987.png
 8485391,Anton,Frondell,Anton Frondell,16,C,L,73,198,2007-05-07,SWE,https://assets.nhle.com/mugs/nhl/20262027/CHI/8485391.png
 8483450,Ryan,Greene,Ryan Greene,20,C,R,73,195,2003-10-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/CHI/8483450.png
