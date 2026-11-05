@@ -4,7 +4,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8478398,Kyle,Connor,Kyle Connor,81,L,L,73,183,1996-12-09,USA,https://assets.nhle.com/mugs/nhl/20262027/WPG/8478398.png
 8480113,Alex,Iafallo,Alex Iafallo,9,L,L,72,201,1993-12-21,USA,https://assets.nhle.com/mugs/nhl/20262027/WPG/8480113.png
 8481043,Cole,Koepke,Cole Koepke,45,L,L,73,207,1998-05-17,USA,https://assets.nhle.com/mugs/nhl/20262027/WPG/8481043.png
-8483471,Brad,Lambert,Brad Lambert,93,C,R,73,173,2003-12-19,FIN,https://assets.nhle.com/mugs/nhl/20262027/WPG/8483471.png
 8476392,Adam,Lowry,Adam Lowry,17,C,L,77,210,1993-03-29,USA,https://assets.nhle.com/mugs/nhl/20262027/WPG/8476392.png
 8482110,Dawson,Mercer,Dawson Mercer,19,C,R,72,180,2001-10-27,CAN,https://assets.nhle.com/mugs/nhl/20262027/WPG/8482110.png
 8476480,Vladislav,Namestnikov,Vladislav Namestnikov,7,C,L,72,181,1992-11-22,RUS,https://assets.nhle.com/mugs/nhl/20262027/WPG/8476480.png
@@ -13,6 +12,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8482765,Isak,Rosen,Isak Rosen,27,R,L,72,185,2003-03-15,SWE,https://assets.nhle.com/mugs/nhl/20262027/WPG/8482765.png
 8476460,Mark,Scheifele,Mark Scheifele,55,C,R,75,207,1993-03-15,CAN,https://assets.nhle.com/mugs/nhl/20262027/WPG/8476460.png
 8480014,Gabriel,Vilardi,Gabriel Vilardi,13,C,R,75,216,1999-08-16,CAN,https://assets.nhle.com/mugs/nhl/20262027/WPG/8480014.png
+8484242,Brayden,Yager,Brayden Yager,29,C,R,71,180,2005-01-03,CAN,https://assets.nhle.com/mugs/nhl/20262027/WPG/8484242.png
 8482459,Tyrel,Bauer,Tyrel Bauer,77,D,R,75,207,2002-03-23,CAN,https://assets.nhle.com/mugs/nhl/20262027/WPG/8482459.png
 8476331,Dylan,DeMelo,Dylan DeMelo,2,D,R,73,194,1993-05-01,CAN,https://assets.nhle.com/mugs/nhl/20262027/WPG/8476331.png
 8479983,Mario,Ferraro,Mario Ferraro,38,D,L,71,200,1998-09-17,CAN,https://assets.nhle.com/mugs/nhl/20262027/WPG/8479983.png
