@@ -1,4 +1,5 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
+8478445,Mathew,Barzal,Mathew Barzal,13,C,R,73,190,1997-05-26,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8478445.png
 8482070,Mitchell,Chaffee,Mitchell Chaffee,26,R,R,72,197,1998-01-26,USA,https://assets.nhle.com/mugs/nhl/20262027/NYI/8482070.png
 8475231,Casey,Cizikas,Casey Cizikas,53,C,L,71,190,1991-02-27,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8475231.png
 8477407,Anthony,Duclair,Anthony Duclair,11,L,L,72,192,1995-08-26,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8477407.png
@@ -7,7 +8,6 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8481601,Simon,Holmstrom,Simon Holmstrom,92,R,L,74,219,2001-05-24,SWE,https://assets.nhle.com/mugs/nhl/20262027/NYI/8481601.png
 8477500,Bo,Horvat,Bo Horvat,14,C,L,73,220,1995-04-05,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8477500.png
 8481711,Matias,Maccelli,Matias Maccelli,63,L,L,72,184,2000-10-14,FIN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8481711.png
-8481237,Kyle,MacLean,Kyle MacLean,32,C,L,74,194,1999-04-29,USA,https://assets.nhle.com/mugs/nhl/20262027/NYI/8481237.png
 8476419,Jean-Gabriel,Pageau,Jean-Gabriel Pageau,44,C,R,71,181,1992-11-11,CAN,https://assets.nhle.com/mugs/nhl/20262027/NYI/8476419.png
 8476292,Ondrej,Palat,Ondrej Palat,81,L,L,72,194,1991-03-28,CZE,https://assets.nhle.com/mugs/nhl/20262027/NYI/8476292.png
 8475151,Kyle,Palmieri,Kyle Palmieri,21,C,R,71,195,1991-02-01,USA,https://assets.nhle.com/mugs/nhl/20262027/NYI/8475151.png
