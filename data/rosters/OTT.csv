@@ -1,6 +1,8 @@
 id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,birthDate,birthCountry,headshot
 8478020,Michael,Amadio,Michael Amadio,22,R,R,73,206,1996-05-13,CAN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8478020.png
 8480208,Drake,Batherson,Drake Batherson,19,R,R,75,209,1998-04-27,USA,https://assets.nhle.com/mugs/nhl/20262027/OTT/8480208.png
+8478104,Sammy,Blais,Sammy Blais,79,L,L,74,206,1996-06-17,CAN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8478104.png
+8482674,Tyler,Boucher,Tyler Boucher,54,R,R,74,216,2003-01-16,USA,https://assets.nhle.com/mugs/nhl/20262027/OTT/8482674.png
 8477444,Andre,Burakovsky,Andre Burakovsky,95,L,L,75,203,1995-02-09,AUT,https://assets.nhle.com/mugs/nhl/20262027/OTT/8477444.png
 8476393,Nick,Cousins,Nick Cousins,21,C,L,71,191,1993-07-20,CAN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8476393.png
 8481528,Dylan,Cozens,Dylan Cozens,24,C,R,75,205,2001-02-09,CAN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8481528.png
@@ -12,6 +14,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8478173,Hayden,Hodgson,Hayden Hodgson,42,R,R,74,221,1996-03-02,CAN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8478173.png
 8481596,Shane,Pinto,Shane Pinto,12,C,R,75,206,2000-11-12,USA,https://assets.nhle.com/mugs/nhl/20262027/OTT/8481596.png
 8482116,Tim,Stützle,Tim Stützle,18,C,L,72,187,2002-01-15,DEU,https://assets.nhle.com/mugs/nhl/20262027/OTT/8482116.png
+8481577,Philip,Tomasino,Philip Tomasino,62,R,R,72,190,2001-07-28,CAN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8481577.png
 8480188,Fabian,Zetterlund,Fabian Zetterlund,20,L,R,71,208,1999-08-25,SWE,https://assets.nhle.com/mugs/nhl/20262027/OTT/8480188.png
 8478469,Thomas,Chabot,Thomas Chabot,72,D,L,74,203,1997-01-30,CAN,https://assets.nhle.com/mugs/nhl/20262027/OTT/8478469.png
 8482095,Tyler,Kleven,Tyler Kleven,43,D,L,77,225,2002-01-10,USA,https://assets.nhle.com/mugs/nhl/20262027/OTT/8482095.png
