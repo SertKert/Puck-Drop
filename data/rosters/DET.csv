@@ -4,7 +4,7 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8484794,Michael,Brandsegg-Nygård,Michael Brandsegg-Nygård,28,R,R,73,205,2005-10-05,NOR,https://assets.nhle.com/mugs/nhl/20262027/DET/8484794.png
 8477456,J.T.,Compher,J.T. Compher,37,L,R,72,192,1995-04-08,USA,https://assets.nhle.com/mugs/nhl/20262027/DET/8477456.png
 8477429,Andrew,Copp,Andrew Copp,18,C,L,73,200,1994-07-08,USA,https://assets.nhle.com/mugs/nhl/20262027/DET/8477429.png
-8481523,Kirby,Dach,Kirby Dach,,C,R,76,221,2001-01-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/DET/8481523.png
+8481523,Kirby,Dach,Kirby Dach,17,C,R,76,221,2001-01-21,CAN,https://assets.nhle.com/mugs/nhl/20262027/DET/8481523.png
 8479337,Alex,DeBrincat,Alex DeBrincat,93,R,R,68,177,1997-12-18,USA,https://assets.nhle.com/mugs/nhl/20262027/DET/8479337.png
 8484471,Emmitt,Finnie,Emmitt Finnie,58,C,L,74,196,2005-06-27,CAN,https://assets.nhle.com/mugs/nhl/20262027/DET/8484471.png
 8483464,Marco,Kasper,Marco Kasper,92,C,L,73,203,2004-04-08,AUT,https://assets.nhle.com/mugs/nhl/20262027/DET/8483464.png
@@ -21,5 +21,5 @@ id,firstName,lastName,fullName,sweaterNumber,positionCode,shootsCatches,heightIn
 8481542,Moritz,Seider,Moritz Seider,53,D,R,76,211,2001-04-06,DEU,https://assets.nhle.com/mugs/nhl/20262027/DET/8481542.png
 8482171,William,Wallinder,William Wallinder,54,D,L,77,210,2002-07-28,SWE,https://assets.nhle.com/mugs/nhl/20262027/DET/8482171.png
 8476434,John,Gibson,John Gibson,36,G,L,75,209,1993-07-14,USA,https://assets.nhle.com/mugs/nhl/20262027/DET/8476434.png
-8478470,Samuel,Montembeault,Samuel Montembeault,,G,L,75,218,1996-10-30,CAN,https://assets.nhle.com/mugs/nhl/20262027/DET/8478470.png
+8478470,Samuel,Montembeault,Samuel Montembeault,32,G,L,75,218,1996-10-30,CAN,https://assets.nhle.com/mugs/nhl/20262027/DET/8478470.png
 8480193,Daniil,Tarasov,Daniil Tarasov,80,G,L,77,204,1999-03-27,RUS,https://assets.nhle.com/mugs/nhl/20262027/DET/8480193.png
